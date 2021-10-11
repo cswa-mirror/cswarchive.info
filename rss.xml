@@ -1,0 +1,2419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.cswarchive.info/">
+  <channel>
+    <title>CSW Archive</title>
+    <link>https://www.cswarchive.info/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>About</title>
+  <link>https://www.cswarchive.info/about</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;About&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.cswarchive.info/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;btckershi&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2021-06-22T17:22:31+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 06/22/2021 - 17:22&lt;/span&gt;
+
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;This site exists as a public service, to provide primary sources about the public Craig Wright who claims to be the creator of Bitcoin, BSV, and related matters.&lt;/p&gt;
+
+&lt;p&gt;This site is not investment advice.&lt;/p&gt;
+
+&lt;p&gt;This site is put together by @BtcKershi&lt;/p&gt;
+
+&lt;p&gt;Massive thanks go to friends such as @MyLegacyKit for their encouragement, HUGE knowledge of the subject, and patient willingness to answer questions!&lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Tue, 22 Jun 2021 17:22:31 +0000</pubDate>
+    <dc:creator>btckershi</dc:creator>
+    <guid isPermaLink="false">5 at https://www.cswarchive.info</guid>
+    </item>
+<item>
+  <title>Wright and the Law</title>
+  <link>https://www.cswarchive.info/law</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Wright and the Law&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.cswarchive.info/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;btckershi&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2021-06-21T22:26:34+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 06/21/2021 - 22:26&lt;/span&gt;
+
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;a id="Top" name="Top"&gt;&lt;/a&gt;This document aims to provide an exhaustive reference for all legal disputes involving Craig Wright, with original and archival links to all publicly available sources. Key quotations from these sources are provided to make this page a searchable index of statements by legal professionals on Craig Wright's credibility or the strengths of his claims relevant in each case.&lt;/p&gt;
+
+&lt;table border="1" cellpadding="1" cellspacing="1" style="width: 100%;"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt;2003-2006&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 623px;"&gt;&lt;a href="#Dispute with DeMorgan Information Security Systems Pty Limited (2003-2006)"&gt;&lt;strong&gt;Dispute with DeMorgan Information Security Systems Pty Limited&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt;&lt;a href="#Accused of Breaking a Non-Compete Clause"&gt;Accused of Breaking a Non-Compete Clause&lt;/a&gt;&lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2003/11/6&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Ryan and Anor v Wright and Anor [2003] NSWSC 1011 (6 November 2003)"&gt;Ryan and Anor v Wright and Anor [2003] NSWSC 1011&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt;&lt;a href="#Convicted of Contempt of Court"&gt;Convicted of Contempt of Court&lt;/a&gt;&lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2004/8/31&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Ryan v Wright [2004] NSWSC 749 (31 August 2004)"&gt;Ryan v Wright [2004] NSWSC 749&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2004/11/15&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Ryan v Wright (No 2) [2004] NSWSC 1019 (15 November 2004)"&gt;Ryan v Wright (No 2) [2004] NSWSC 1019&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt;&lt;a href="#Appeals Rejected"&gt;Appeals Rejected&lt;/a&gt;&lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2005/10/27&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Wright v Ryan &amp; Anor [2005] NSWCA 368 (27 October 2005)"&gt;Wright v Ryan &amp; Anor [2005] NSWCA 368&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2006/6/15&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Wright v Ryan &amp; Anor [2006] HCATrans 307 (15 June 2006)"&gt;Wright v Ryan &amp; Anor [2006] HCATrans 307&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt;2013&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;strong&gt;&lt;a href="#Sues W&amp;K Info Defence for Fraud"&gt;Alleged Fraud on W&amp;K Info Defense for IP&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt;&lt;a href="#Legal Record of W&amp;K Info Defense"&gt;Legal Record of W&amp;K Info Defense&lt;/a&gt;&lt;/td&gt;
+			&lt;td style="width: 66px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Corporation History"&gt;Corporation History of W&amp;K Info Defense&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2011/2/14&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Formation of W&amp;K Info Defense Research LLC by David Kleiman as Managing Director and Sole Shareholder"&gt;Formation of W&amp;K Info Defense Research LLC by David Kleiman as Managing Director and Sole Shareholder&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt;&lt;a href="#Seizure of W&amp;K by Craig immediately after Kleiman's Death To Enable Theft of IP"&gt;Seizure of W&amp;K by Craig immediately after Kleiman's Death To Enable Transfer of IP&lt;/a&gt;&lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2013/7/25 2013/8/13&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Statements of Claim"&gt;Statements of Claim by Wright against W&amp;K Info Defense&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2013/8/16&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Wright—Claiming to be the Sole Living Shareholder of W&amp;K—Holds a Shareholders Meeting Appointing J. Wilson as Director"&gt;Wright—Claiming to be the Sole Living Shareholder of W&amp;K—Holds a Shareholders Meeting Appointing J. Wilson as Director&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2013/8/19&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Wright Files 2 Acknowledgements of Liquidated Claim on Behalf of W&amp;K Info Defense with Himself as Named Plaintiff and Defendant"&gt;Wright Files 2 Acknowledgements of Liquidated Claim on Behalf of W&amp;K Info Defense with Himself as Named Plaintiff and Defendant&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2013/8/23&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Wright Files 2 Consent Orders on Behalf of W&amp;K Info Defense signed by him and J. Wilson"&gt;Wright Files 2 Consent Orders on Behalf of W&amp;K Info Defense signed by him and J. Wilson&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2013/10/31&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Affidavit by Wright Describing the Shareholders Meeting of 2013/8/16"&gt;Affidavit by Wright Describing the Shareholders Meeting of 2013/8/16&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2013/11/6&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#NSW Supreme Court Grants Transfer of IP from W&amp;K Info Defense LLC to Craig Wright"&gt;NSW Supreme Court Grants Transfer of IP from W&amp;K Info Defense LLC to Craig Wright&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt;&lt;a href="#History of W&amp;K After the IP Transference Scam"&gt;History of W&amp;K After the IP Transference&lt;/a&gt;&lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2014/3/28&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Reinstatement of W&amp;K by Uyen Nguyen"&gt;Reinstatement of W&amp;K by Uyen Nguyen&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2018/4/12&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Reinstatement of W&amp;K by Ira Kleiman"&gt;Reinstatement of W&amp;K by Ira Kleiman&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt;2013-present&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#Fraud on the Australian Tax Office"&gt;&lt;strong&gt;Fraud on the Australian Tax Office&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt;&lt;a href="#ATO Investigation into Craig Wright"&gt;ATO Investigation into Craig Wright&lt;/a&gt;&lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2014&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#ATO's reasons for decision for Craig Wright concerning the period 2012-2014"&gt;ATO's reasons for decision for Craig Wright concerning the period 2012-2014&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt;&lt;a href="#Wright's Own Lawyer Concludes Substantial Evidence of Fraud"&gt;Wright's Own Lawyer Concludes Substantial Evidence of Fraud&lt;/a&gt;&lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2015/7/3-5&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Emails concerning the evidence of Wright's fraud presented to his lawyer"&gt;Emails concerning the evidence of Wright's fraud presented to his lawyer &lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2015/7/6&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Wright's lawyer terminates engagement with Wright's company for ethical reasons"&gt;Wright's lawyer terminates engagement with Wright's company for ethical reasons&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt;&lt;a href="#ATO Investigation into Wright's company C01N Pty Ltd"&gt;ATO Investigation into Wright's company C01N Pty Ltd&lt;/a&gt;&lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2016/3/11&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#ATO's reasons for decision for C01N Pty Ltd for the period 1 July 2012 to 30 June 2013"&gt;ATO's reasons for decision for C01N Pty Ltd for the period 1 July 2012 to 30 June 2013&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt;2017-2020&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#Dispute with Reliantco Investments Ltd (2017-2020)"&gt;&lt;strong&gt;Dispute with Reliantco Investments Ltd&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2019/4/12&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Ramona ANG v Reliantco Investments Ltd [2019] EWHC 879 (Comm)"&gt;Ramona ANG v Reliantco Investments Ltd [2019] EWHC 879 (Comm)&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2020/11/27&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Ang v Reliantco Investments Ltd [2020] EWHC 3242 (Comm)"&gt;Ang v Reliantco Investments Ltd [2020] EWHC 3242 (Comm)&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt;2018-present&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#Sued for Fraud by Ira Kleiman"&gt;&lt;strong&gt;Sued by Ira Kleiman&lt;/strong&gt; &lt;strong&gt;for Fraud&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt;&lt;a href="#Map of the Court Docket"&gt;Map of the Court Docket&lt;/a&gt;&lt;/td&gt;
+			&lt;td style="width: 66px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 391px;"&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt;&lt;a href="#Statements by the Judges on Craig Wright's Credibility"&gt;Statements by the Judges on Craig Wright's Credibility&lt;/a&gt;&lt;/td&gt;
+			&lt;td style="width: 66px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 391px;"&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt;2019&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#Sues Peter McCormack for Libel"&gt;&lt;strong&gt;Sues Peter McCormack for Libel &lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2019/5/1&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Wright_McCormack_Claim"&gt;Particulars of Claim&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2019/8/8&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Wright_McCormack_Defence"&gt;Defence&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2019/10/11&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Wright_McCormack_Reply_to_Defence"&gt;Reply to Defence&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2019/11/19&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Wright_McCormack_Response_to_RFI"&gt;Defence Response to Claimants Request for Information&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2019/12/19&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Wright_McCormack_Amended_Claim"&gt;Amended Particulars of Claim&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2020/3/18&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Wright_McCormack_Amended_Defence"&gt;Amended Defence&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2020/4/22&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Wright_McCormack_Re_Amended_Reply"&gt;Amended Reply&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2021/10/8&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Wright_McCormack_Pre_Trial_Review"&gt;Pre-Trial Review&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt;2019-2020&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#Sues Adam Back for Libel"&gt;&lt;strong&gt;Sues Adam Back for Libel&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;April&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;ends jan 2020&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 391px;"&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt;2019-2020&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#Sues Roger Ver for Libel"&gt;&lt;strong&gt;Sues Roger Ver for Libel&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2019/7/31&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Claim for libel dismissed due to jurisdiction"&gt;Claim for libel dismissed due to jurisdiction&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2020/5/29&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Failed appeal"&gt;Failed appeal&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt;2019-2020&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#Sues Vitalik Buterin for Libel"&gt;&lt;strong&gt;Sues Vitalik Buterin for Libel&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;April&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;ends may 2020&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt;2019-present&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#Sues @hodlonaut for Libel"&gt;&lt;strong&gt;Sues @hodlonaut for Libel&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt;&lt;a href="#UK Lawsuit"&gt;UK Lawsuit&lt;/a&gt;&lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2019/7/22&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#hodlonaut-particulars"&gt;Particulars of Claim&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2021/3/22&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#hodlonaut-amended-particulars"&gt;Amended Particulars of Claim&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2021/4/23&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#hodlonaut-defence"&gt;Defence&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2021/6/23&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#hodlonaut-reply-to-defence"&gt;Reply to Defence&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt;&lt;a href="#Negative Declaratory Relief Proceedings in Norway"&gt;Negative Declaratory Relief Proceedings in Norway&lt;/a&gt;&lt;/td&gt;
+			&lt;td style="width: 66px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 391px;"&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt;&lt;a href="#UK Jurisdiction Dispute"&gt;UK Jurisdiction Dispute&lt;/a&gt;&lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2020/1/16&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Wright v hodlonaut [2020] EWHC 51 (QB)"&gt;Wright v hodlonaut [2020] EWHC 51 (QB)&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2021/1/15&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#Wright v hodlonaut [2021] EWCA Civ 28"&gt;Wright v hodlonaut [2021] EWCA Civ 28 (appeal of the previous)&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt;2020&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#Lynn Wright sues Ira Kleiman"&gt;Lynn Wright sues Ira Kleiman&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;July&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt;2020&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#Sues Roger Ver for Libel"&gt;Sues Roger Ver for Libel&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt;(Antigua?)&lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;August&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt;2021&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#Sues bitcoin.org (CobraBitcoin) for Copyright Violation"&gt;Sues bitcoin.org (CobraBitcoin) for Copyright Violation&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2021/3/31&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#CobraParticulars"&gt;Particulars of Claim&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2021/6/28&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#CobraJudgement"&gt;Judgement&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt;2021&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#Sues bitcoin.com for Copyright Violation"&gt;Sues bitcoin.com for Copyright Violation&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;Jan&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt;2021&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#Sues bitcoincore.org for Copyright Violation"&gt;Sues bitcoincore.org for Copyright Violation&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;Jan-Jan&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt;2021&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#Sues Square for Copyright Violation"&gt;Sues Square for Copyright Violation&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;Jan&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt;2021&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#Sues BTC, BCH, BCH ABC and Bitcoin Association (BSV) for Damages"&gt;Sues BTC, BCH, BCH ABC and Bitcoin Association (BSV) for Damages&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;Feb&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt;2021&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#Tulip Trust (Ramona Ang) Sues Ira Kleiman"&gt;Tulip Trust (Ramona Ang) Sues Ira Kleiman&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;April&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt;2021&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#COPA v Wright"&gt;COPA v Wright&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2021/4/9&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#20210409Filing"&gt;COPA filing&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2021/4/12&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#20210412ParticularsOfClaim"&gt;Particulars of claim (by COPA)&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2021/5/14&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#20210514Defence"&gt;Defence (by Wright)&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2021/6/15&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#20210615Response"&gt;Response to CSW's request for further information on the Particulars of Claim (by COPA)&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2021/7/19&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#20210719Reply"&gt;Reply to Defence (by COPA)&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2021/8/4&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#20210804Request"&gt;Request for more Information (by COPA)&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2021/9/10&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#20210910Response"&gt;Response to Request (by Wright)&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2021/9/27&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#20210927Amended"&gt;Amended Defence(by Wright)&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1&gt;&lt;a id="Dispute with DeMorgan Information Security Systems Pty Limited (2003-2006)" name="Dispute with DeMorgan Information Security Systems Pty Limited (2003-2006)"&gt;&lt;/a&gt;Dispute with DeMorgan Information Security Systems Pty Limited (2003-2006)&lt;/h1&gt;
+
+&lt;h2&gt;&lt;a id="Accused of Breaking a Non-Compete Clause" name="Accused of Breaking a Non-Compete Clause"&gt;&lt;/a&gt;Accused of Breaking a Non-Compete Clause&lt;/h2&gt;
+
+&lt;h3&gt;&lt;a id="Ryan and Anor v Wright and Anor [2003] NSWSC 1011 (6 November 2003)" name="Ryan and Anor v Wright and Anor [2003] NSWSC 1011 (6 November 2003)"&gt;&lt;/a&gt;Ryan and Anor v Wright and Anor [2003] NSWSC 1011 (2003/11/6)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/nsw/NSWSC/2003/1011.html"&gt;http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/nsw/NSWSC/2003/1011.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/foG52"&gt;https://archive.ph/foG52&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Judge J McDougall&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;23 I am satisfied, particularly having regard to the evidence relating to an alleged e-mail approach by Mr Wright to Mr Dave Spencer of the RIC, and to Mr Wright’s dealings with Mr Tristan Geering of the ASX, that there is a serious question to be tried in relation to the alleged breaches by Mr Wright of cl 13 of the shareholders’ agreement. There is evidence that would show, if accepted, that the approaches made by Mr Wright to, or the dealings between Mr Wright and, the ASX and the RIC were conducted not for the benefit of the company, but for the benefit of Mr and Mrs Wright, either directly or through Ridge’s Estate.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;25 I am satisfied that there is a real threat that, unless restrained, Mr Wright will continue to approach, or deal with, customers of the company.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;27 Further, having regard to the clandestine nature of the dealings between Mr Wright and the company’s customers, I am satisfied that it would not be appropriate to permit Mr Wright to deal with customers of the company on the basis that he do so as the company’s agent and for the benefit of the company. I think that there is a real risk that Mr Wright, if permitted to deal on a limited basis with customers of the company, might seek to undermine the company and its business. In this context, Mr Anthony Wilkes, a system administrator employed by the company and, perhaps, a member (see para [18] above), says in an affidavit that on 15 October 2003 he met and had lunch with Mr Geering of ASX. He says that in the course of that lunch Mr Geering confirmed that Mr Wright “is still working in the ASX”. Further, he says, Mr Geering said that Mr Wright “said openly that he would spend over a million dollars to see DeMorgan go under”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2&gt;&lt;a id="Convicted of Contempt of Court" name="Convicted of Contempt of Court"&gt;&lt;/a&gt;Convicted of Contempt of Court&lt;/h2&gt;
+
+&lt;h3&gt;&lt;a id="Ryan v Wright [2004] NSWSC 749 (31 August 2004)" name="Ryan v Wright [2004] NSWSC 749 (31 August 2004)"&gt;&lt;/a&gt;Ryan v Wright [2004] NSWSC 749 (2004/8/31)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/nsw/NSWSC/2004/749.html"&gt;http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/nsw/NSWSC/2004/749.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/s2AEl"&gt;https://archive.ph/s2AEl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Judge J. Gzell&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;56 It was submitted that a reasonable doubt existed in the absence of direct proof that Mr Wright sent the emails or conducted the telephone conversations charged to his mobile. It was submitted that anyone with access to the internet could have sent the emails using Mr Wright’s email address. It was submitted that anyone with access to his mobile could have made the telephone calls.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;58 When the evidence is viewed as a whole the inescapable inference is that Mr Wright sent the emails and Mr Wright made the telephone calls. He was the party with the interest in performing services for ASX, RIC, News, Val Morgan and HREOC. He was the person who signed himself in at ASX on behalf of Ridges. He was the person identified by ASX and News as providing services to them.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;62 In my view, the charges against Mrs Wright should be dismissed and a declaration that Mr Wright is guilty of contempt of court in terms of paragraph 1 of the notice of motion should be made.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3&gt;&lt;a id="Ryan v Wright (No 2) [2004] NSWSC 1019 (15 November 2004)" name="Ryan v Wright (No 2) [2004] NSWSC 1019 (15 November 2004)"&gt;&lt;/a&gt;Ryan v Wright (No 2) [2004] NSWSC 1019 (2004/11/15)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/nsw/NSWSC/2004/1019.html"&gt;http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/nsw/NSWSC/2004/1019.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/I7IGJ"&gt;https://archive.ph/I7IGJ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Judge J Gzell&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;8 In his affidavit and in cross examination Mr Wright swore that he prepared a document for ASX in the name of Ridges because his solicitor advised him not to use the name DeMorgan. No evidence was tendered from the solicitor. I find that explanation implausible and I reject the testimony.&lt;br /&gt;
+9 Both in his affidavit and in cross examination, Mr Wright spoke of contact with employees of customers of DeMorgan. He said he did not understand the undertakings as restraining him from communicating with employees who were not officers of customers of DeMorgan. There was no basis for Mr Wright to limit his undertakings in that fashion.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;13 On the other hand, there was no suggestion of contrition on the part of Mr Wright. Having stated that he disagreed with my findings and had instructed his solicitors to lodge an appeal and he understood a holding appeal had been lodged, he stated:&lt;br /&gt;
+“In spite of that appeal, if the Court ultimately maintains that I have breached my undertakings and/or the orders of the Court then I apologise to the Court. It was never my intention to breach the undertakings that I gave or the orders of the Court.”&lt;br /&gt;
+14 In the course of his solicitor’s final submissions, I asked whether Mr Wright freely and willingly apologised to the court. His solicitor took instructions from his client and said he did. I do not accept that belated indication of an apology as a purging of Mr Wright’s contempt. The whole tenor of his affidavit and his manner in the witness box under cross examination was one of belligerent adherence to his views.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;23 In my view Mr Wright’s deliberate flouting of his undertaking makes this a serious offence. His lack of contrition exacerbates its seriousness. There is a need to bring home to a contemnor the seriousness of his contempt. For the purposes of the &lt;em&gt;&lt;a href="http://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/nsw/consol_act/cpa1999278/"&gt;Crimes (Sentencing Procedure) Act&lt;/a&gt;&lt;/em&gt;&lt;a href="http://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/nsw/consol_act/cpa1999278/"&gt; 1999&lt;/a&gt;, &lt;a href="http://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/nsw/consol_act/cpa1999278/s5.html"&gt;s 5(2)&lt;/a&gt; these are my reasons for my determining that a sentence of imprisonment is required in this case. I propose to sentence Craig Wright to a term of imprisonment of 28 days. Under &lt;a href="http://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/nsw/consol_act/cpa1999278/s46.html"&gt;s 46&lt;/a&gt; I am not required to set a non-parole period.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2&gt;&lt;a id="Appeals Rejected" name="Appeals Rejected"&gt;&lt;/a&gt;Appeals Rejected&lt;/h2&gt;
+
+&lt;h3&gt;&lt;a id="Wright v Ryan &amp; Anor [2005] NSWCA 368 (27 October 2005)" name="Wright v Ryan &amp; Anor [2005] NSWCA 368 (27 October 2005)"&gt;&lt;/a&gt;Wright v Ryan &amp; Anor [2005] NSWCA 368 (2005/10/27)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/nsw/NSWCA/2005/368.html"&gt;http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/nsw/NSWCA/2005/368.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/ihtZX"&gt;https://archive.ph/ihtZX&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Judge J.A. Handley&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;63 The probative force of the new evidence depends in large measure on the appellant’s credibility and reliability. His explanations and interpretations of these and related documents are contradicted at critical points, on which there is no independent evidence to support him. The appellant’s contradictory evidence about the email of 11.16 am on 10 September 2003 raises doubts about his credibility, as does his evidence based on the calls from his mobile phone that day.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Judge J.A. Hodgson&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span lang="EN-US" xml:lang="EN-US" xml:lang="EN-US"&gt;&lt;span&gt;&lt;span&gt;77 I agree with Handley JA that the proposed fresh evidence lacked the &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;necessary credibility and materiality, particularly in circumstances where it depended in essential respects on the appellant’s own credibility, which was strongly under challenge.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3&gt;&lt;a id="Wright v Ryan &amp; Anor [2006] HCATrans 307 (15 June 2006)" name="Wright v Ryan &amp; Anor [2006] HCATrans 307 (15 June 2006)"&gt;&lt;/a&gt;Wright v Ryan &amp; Anor [2006] HCATrans 307 (2006/6/15)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCATrans/2006/307.html"&gt;&lt;span style="font-size:12pt"&gt;&lt;span style="line-height:150%"&gt;&lt;span style="font-family:Calibri,sans-serif"&gt;http://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCATrans/2006/307.html&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:12pt"&gt;&lt;span style="line-height:150%"&gt;&lt;span style="font-family:Calibri,sans-serif"&gt;archive: &lt;a href="https://archive.ph/u7fjQ"&gt;https://archive.ph/u7fjQ&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;&lt;a id="Sues W&amp;K Info Defence for Fraud" name="Sues W&amp;K Info Defence for Fraud"&gt;&lt;/a&gt;Alleged Fraud on W&amp;K Info Defense for IP&lt;/h1&gt;
+
+&lt;h2&gt;&lt;a id="Legal Record of W&amp;K Info Defense" name="Legal Record of W&amp;K Info Defense"&gt;&lt;/a&gt;Legal Record of W&amp;K Info Defense&lt;/h2&gt;
+
+&lt;h3&gt;&lt;a id="Corporation History" name="Corporation History"&gt;&lt;/a&gt;Corporation History of W&amp;K Info Defense&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="http://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&amp;directionType=Initial&amp;searchNameOrder=WKINFODEFENSERESEARCH%20L110000199040&amp;aggregateId=flal-l11000019904-dce79b55-176a-4442-93a7-3c8896316aa2&amp;searchTerm=W%26K%20Info%20&amp;listNameOrder=WKINFODEFENSERESEARCH%20L110000199040"&gt;http://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&amp;directionType=Initial&amp;searchNameOrder=WKINFODEFENSERESEARCH%20L110000199040&amp;aggregateId=flal-l11000019904-dce79b55-176a-4442-93a7-3c8896316aa2&amp;searchTerm=W%26K%20Info%20&amp;listNameOrder=WKINFODEFENSERESEARCH%20L110000199040&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/MD9XM"&gt;https://archive.ph/MD9XM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;&lt;a id="Formation of W&amp;K Info Defense Research LLC by David Kleiman as Managing Director and Sole Shareholder" name="Formation of W&amp;K Info Defense Research LLC by David Kleiman as Managing Director and Sole Shareholder"&gt;&lt;/a&gt;Formation of W&amp;K Info Defense Research LLC by David Kleiman as Managing Director and Sole Shareholder (2011/2/14)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original 1: &lt;a href="http://search.sunbiz.org/Inquiry/CorporationSearch/ConvertTiffToPDF?storagePath=COR%5C2011%5C0216%5C90321539.tif&amp;documentNumber=L11000019904"&gt;http://search.sunbiz.org/Inquiry/CorporationSearch/ConvertTiffToPDF?storagePath=COR%5C2011%5C0216%5C90321539.tif&amp;documentNumber=L11000019904&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive 1: &lt;a href="https://archive.ph/GIGq4"&gt;https://archive.ph/GIGq4&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;local 1: 
+	&lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-06/ConvertTiffToPDF.pdf" type="application/pdf"&gt;ConvertTiffToPDF.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+	&lt;li&gt;original 2: &lt;a href="https://www.courtlistener.com/docket/6309656/1/4/kleiman-v-wright/"&gt;https://www.courtlistener.com/docket/6309656/1/4/kleiman-v-wright/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive 2: &lt;a href="https://archive.ph/xat36"&gt;https://archive.ph/xat36&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;local 2: 
+	&lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-06/gov.uscourts.flsd_.521536.1.4.pdf" type="application/pdf"&gt;gov.uscourts.flsd_.521536.1.4.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;&lt;a id="Seizure of W&amp;K by Craig immediately after Kleiman's Death To Enable Theft of IP" name="Seizure of W&amp;K by Craig immediately after Kleiman's Death To Enable Theft of IP"&gt;&lt;/a&gt;Seizure of W&amp;K by Craig immediately after Kleiman's Death To Enable Transfer of IP&lt;/h2&gt;
+
+&lt;h3&gt;&lt;a id="Statements of Claim" name="Statements of Claim"&gt;&lt;/a&gt;Statements of Claim by Wright against W&amp;K Info Defense (2013/7/25 and 2013/8/13)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.courtlistener.com/docket/6309656/24/11/kleiman-v-wright/"&gt;https://www.courtlistener.com/docket/6309656/24/11/kleiman-v-wright/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/ilNfk"&gt;https://archive.ph/ilNfk&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;local: 
+	&lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-06/gov.uscourts.flsd_.521536.24.11.pdf" type="application/pdf"&gt;gov.uscourts.flsd_.521536.24.11.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Documents contained in that file, in order:&lt;/h4&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;Statement of Claim (2013/8/13) pp. 2-5&lt;/li&gt;
+	&lt;li&gt;Signed Affidavit to the Facts of the Previous by Wright (2013/8/12) pp. 6-7&lt;/li&gt;
+	&lt;li&gt;Statement of Claim (2013/7/25) pp. 8-12&lt;/li&gt;
+	&lt;li&gt;Signed Affidavit to the Facts of the Previous by Wright (2012/8/23) (sic—incorrect year entered on form) pp. 13-15&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3&gt;&lt;a id="Wright—Claiming to be the Sole Living Shareholder of W&amp;K—Holds a Shareholders Meeting Appointing J. Wilson as Director" name="Wright—Claiming to be the Sole Living Shareholder of W&amp;K—Holds a Shareholders Meeting Appointing J. Wilson as Director"&gt;&lt;/a&gt;Wright—Claiming to be the Sole Living Shareholder of W&amp;K—Holds a Shareholders Meeting Appointing J. Wilson as Director (2013/8/16)&lt;/h3&gt;
+
+&lt;p&gt;(see the &lt;a href="#Further Affidavit Filed by Wright in Support of His Claim"&gt;Further Affidavit Filed by Wright in Support of His Claim&lt;/a&gt; (2013/10/31))&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id="Wright Files 2 Acknowledgements of Liquidated Claim on Behalf of W&amp;K Info Defense with Himself as Named Plaintiff and Defendant" name="Wright Files 2 Acknowledgements of Liquidated Claim on Behalf of W&amp;K Info Defense with Himself as Named Plaintiff and Defendant"&gt;&lt;/a&gt;Wright Files 2 Acknowledgements of Liquidated Claim on Behalf of W&amp;K Info Defense with Himself as Named Plaintiff and Defendant (2013/8/19)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.courtlistener.com/docket/6309656/24/30/kleiman-v-wright/"&gt;https://www.courtlistener.com/docket/6309656/24/30/kleiman-v-wright/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/4D1cY"&gt;https://archive.ph/4D1cY&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;local: 
+	&lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-06/gov.uscourts.flsd_.521536.24.30.pdf" type="application/pdf"&gt;gov.uscourts.flsd_.521536.24.30.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;&lt;a id="Wright Files 2 Consent Orders on Behalf of W&amp;K Info Defense signed by him and J. Wilson" name="Wright Files 2 Consent Orders on Behalf of W&amp;K Info Defense signed by him and J. Wilson"&gt;&lt;/a&gt;Wright Files 2 Consent Orders on Behalf of W&amp;K Info Defense signed by him and J. Wilson (2013/8/23)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.courtlistener.com/docket/6309656/24/19/kleiman-v-wright/"&gt;https://www.courtlistener.com/docket/6309656/24/19/kleiman-v-wright/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/saf7Q"&gt;https://archive.ph/saf7Q&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;local: 
+	&lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-06/gov.uscourts.flsd_.521536.24.19.pdf" type="application/pdf"&gt;gov.uscourts.flsd_.521536.24.19.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;&lt;a id="Affidavit by Wright Describing the Shareholders Meeting of 2013/8/16" name="Affidavit by Wright Describing the Shareholders Meeting of 2013/8/16"&gt;&lt;/a&gt;Affidavit by Wright Describing the Shareholders Meeting of 2013/8/16 (made 2013/10/31; filed 2013/11/4)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original 1: &lt;a href="https://www.courtlistener.com/docket/6309656/24/4/kleiman-v-wright/"&gt;https://www.courtlistener.com/docket/6309656/24/4/kleiman-v-wright/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive 1: &lt;a href="https://archive.ph/rvg2W"&gt;https://archive.ph/rvg2W&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;local 1: 
+	&lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-06/gov.uscourts.flsd_.521536.24.4.pdf" type="application/pdf"&gt;gov.uscourts.flsd_.521536.24.4.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+	&lt;li&gt;original 2: &lt;a href="https://www.courtlistener.com/docket/6309656/511/12/kleiman-v-wright/"&gt;https://www.courtlistener.com/docket/6309656/511/12/kleiman-v-wright/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive 2: &lt;a href="https://archive.ph/vJNzL"&gt;https://archive.ph/vJNzL&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;local 2: 
+	&lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-06/gov.uscourts.flsd_.521536.511.12.pdf" type="application/pdf"&gt;gov.uscourts.flsd_.521536.511.12.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Documents contained in the second file, in order:&lt;/h4&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;Another copy of #1 immediately above: Statement of Claim (2013/8/13) pp. 1-4&lt;/li&gt;
+	&lt;li&gt;Another copy of #2 immediately above: Signed Affidavit to the Facts of the Previous by Wright (2013/8/12) pp. 5-6&lt;/li&gt;
+	&lt;li&gt;Signed Affidavit to Additional Claimed Facts Submitted by Wright (2013/10/31) pp. 7-12&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4&gt;Wright's description of the 2013/8/16 shareholder meeting:&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;23. On 01st August 2013 a shareholders meeting was called for "W&amp;K Info Defense LLC" to be held on the 16th August 2013. The meeting was emailed to the company address as well as send [sic] to the address of the shareholders and company. The shareholding of "W&amp;K Info Defense LLC" was:&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;Craig S Wright 50.0%&lt;/li&gt;
+	&lt;li&gt;David A Kleiman 50.0%&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;24. The meeting from point 23 meeting [sic] was held on the 16th August 2013. The following people were present:&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;Jamie Wilson&lt;/li&gt;
+	&lt;li&gt;Craig S Wright&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;25. "W&amp;K Info Defense LLC" was an incorporated partnership. All shares are held jointly. The constitution states there is to be a resident US director. Shares were held jointly as per the US Companies Act, 1956.&lt;/p&gt;
+
+&lt;p&gt;26. The following points were moved at the meeting:&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;Jamie Wilson will act as director for the purposes of consenting to orders and the company to be wound down.&lt;/li&gt;
+	&lt;li&gt;The vote was Craig Wright — "Yes". No other parties.&lt;/li&gt;
+	&lt;li&gt;It was agreed that following the motion to accept the debt owed by the company (W&amp;K Info Defense LLC), it would be closed.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;h3&gt;&lt;a id="NSW Supreme Court Grants Transfer of IP from W&amp;K Info Defense LLC to Craig Wright" name="NSW Supreme Court Grants Transfer of IP from W&amp;K Info Defense LLC to Craig Wright"&gt;&lt;/a&gt;NSW Supreme Court Grants Transfer of IP from W&amp;K Info Defense LLC to Craig Wright (2013/11/6)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.courtlistener.com/docket/6309656/24/22/kleiman-v-wright/"&gt;https://www.courtlistener.com/docket/6309656/24/22/kleiman-v-wright/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/6jyhC"&gt;https://archive.ph/6jyhC&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;local: 
+	&lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-06/gov.uscourts.flsd_.521536.24.22.pdf" type="application/pdf"&gt;gov.uscourts.flsd_.521536.24.22.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;&lt;a id="History of W&amp;K After the IP Transference Scam" name="History of W&amp;K After the IP Transference Scam"&gt;&lt;/a&gt;History of W&amp;K After the IP Transference&lt;/h2&gt;
+
+&lt;h3&gt;&lt;a id="Reinstatement of W&amp;K by Uyen Nguyen" name="Reinstatement of W&amp;K by Uyen Nguyen"&gt;&lt;/a&gt;Reinstatement of W&amp;K by Uyen Nguyen (2014/3/28)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="http://search.sunbiz.org/Inquiry/CorporationSearch/ConvertTiffToPDF?storagePath=COR%5C2014%5C0331%5C58356362.tif&amp;documentNumber=L11000019904"&gt;http://search.sunbiz.org/Inquiry/CorporationSearch/ConvertTiffToPDF?storagePath=COR%5C2014%5C0331%5C58356362.tif&amp;documentNumber=L11000019904&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/vVOjA"&gt;https://archive.ph/vVOjA&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;local: 
+	&lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-06/ConvertTiffToPDF%20%281%29.pdf" type="application/pdf"&gt;ConvertTiffToPDF (1).pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;&lt;a id="Reinstatement of W&amp;K by Ira Kleiman" name="Reinstatement of W&amp;K by Ira Kleiman"&gt;&lt;/a&gt;Reinstatement of W&amp;K by Ira Kleiman (2018/4/12)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="http://search.sunbiz.org/Inquiry/CorporationSearch/GetDocument?aggregateId=flal-l11000019904-dce79b55-176a-4442-93a7-3c8896316aa2&amp;transactionId=l11000019904-re-42d2ae10-fbd1-4902-8f7e-f57e746413cf&amp;formatType=PDF"&gt;http://search.sunbiz.org/Inquiry/CorporationSearch/GetDocument?aggregateId=flal-l11000019904-dce79b55-176a-4442-93a7-3c8896316aa2&amp;transactionId=l11000019904-re-42d2ae10-fbd1-4902-8f7e-f57e746413cf&amp;formatType=PDF&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/AwX8D"&gt;https://archive.ph/AwX8D&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;local: 
+	&lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-06/GetDocument.pdf" type="application/pdf"&gt;GetDocument.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;&lt;a id="Fraud on the Australian Tax Office" name="Fraud on the Australian Tax Office"&gt;&lt;/a&gt;Fraud on the Australian Tax Office&lt;/h1&gt;
+
+&lt;h2&gt;&lt;a id="ATO Investigation into Craig Wright" name="ATO Investigation into Craig Wright"&gt;&lt;/a&gt;ATO Investigation into Craig Wright&lt;/h2&gt;
+
+&lt;h3&gt;&lt;a id="ATO's reasons for decision for Craig Wright concerning the period 2012-2014" name="ATO's reasons for decision for Craig Wright concerning the period 2012-2014"&gt;&lt;/a&gt;ATO's reasons for decision for Craig Wright concerning the period 2012-2014 (2014)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.courtlistener.com/docket/6309656/547/3/kleiman-v-wright/"&gt;https://www.courtlistener.com/docket/6309656/547/3/kleiman-v-wright/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/oaa9P"&gt;https://archive.ph/oaa9P&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;local copy: 
+	&lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-06/gov.uscourts.flsd_.521536.547.3.pdf" type="application/pdf"&gt;gov.uscourts.flsd_.521536.547.3.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Fabrication of documents&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;94 ...It follows that these documents (including any related purported invoices or tax invoices) can be considered a nullity based on sham.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4&gt;Backdating of documents&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;156 All of the transactions were planned to take place in the same tax period — 1 July 2013 to 30 September 2013. You have admitted to backdating tax invoices to the beginning of that tax period because ‘it made sense to [you]’ because those were the dates on which you had wanted the transactions to occur.&lt;/p&gt;
+
+&lt;p&gt;157 The NSW SC settlement agreement appears to be back-dated to 9 July 2013 in order to come within this period, despite the fact that the decision in these matters was handed down in November 2013. This appears to be a deliberate attempt to ensure that the acquisition of the legal title to the W&amp;K software was recorded at a time which enabled you to transfer those rights to DeMorgan and for DeMorgan to supply that software before 30 September 2013.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2&gt;&lt;a id="Wright's Own Lawyer Concludes Substantial Evidence of Fraud" name="Wright's Own Lawyer Concludes Substantial Evidence of Fraud"&gt;&lt;/a&gt;Wright's Own Lawyer Concludes Substantial Evidence of Fraud&lt;/h2&gt;
+
+&lt;h3&gt;&lt;a id="Emails concerning the evidence of Wright's fraud presented to his lawyer" name="Emails concerning the evidence of Wright's fraud presented to his lawyer"&gt;&lt;/a&gt;Emails concerning the evidence of Wright's fraud presented to his lawyer (2015/7/3-5)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.courtlistener.com/docket/6309656/510/12/kleiman-v-wright/"&gt;https://www.courtlistener.com/docket/6309656/510/12/kleiman-v-wright/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/8NdAG"&gt;https://archive.ph/8NdAG&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;local copy: 
+	&lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-06/gov.uscourts.flsd_.521536.510.12.pdf" type="application/pdf"&gt;gov.uscourts.flsd_.521536.510.12.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Assessment of Andrew Sommer, Wright's lawyer&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;You can see the differences between the ATO’s records and the records in your submission. The differences are intended to support the position Craig wanted to advance. In each case the “supportive” wording does not appear on the ATO version of the emails but only on the version of the emails contained in the submission of 26 June. ... This is extremely serious.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3&gt;&lt;a id="Wright's lawyer terminates engagement with Wright's company for ethical reasons" name="Wright's lawyer terminates engagement with Wright's company for ethical reasons"&gt;&lt;/a&gt;Wright's lawyer terminates engagement with Wright's company for ethical reasons (2015/7/6)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.courtlistener.com/docket/6309656/510/13/kleiman-v-wright/"&gt;https://www.courtlistener.com/docket/6309656/510/13/kleiman-v-wright/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/BohLo"&gt;https://archive.ph/BohLo&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;local copy: 
+	&lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-06/gov.uscourts.flsd_.521536.510.13.pdf" type="application/pdf"&gt;gov.uscourts.flsd_.521536.510.13.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Statement of Andrew Sommer, Wright's lawyer&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Information has been provided to our firm which raises serious questions about the integrity of documents provided by Dr Craig Wright, both to our office and to the Australian Taxation Office. We believe this information to be credible. In these circumstances, we can no longer represent DeMorgan Limited in the disputes it and its subsidiaries has with the Australian Taxation Office.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2&gt;&lt;a id="ATO Investigation into Wright's company C01N Pty Ltd" name="ATO Investigation into Wright's company C01N Pty Ltd"&gt;&lt;/a&gt;ATO Investigation into Wright's company C01N Pty Ltd&lt;/h2&gt;
+
+&lt;h3&gt;&lt;a id="ATO's reasons for decision for C01N Pty Ltd for the period 1 July 2012 to 30 June 2013" name="ATO's reasons for decision for C01N Pty Ltd for the period 1 July 2012 to 30 June 2013"&gt;&lt;/a&gt;ATO's reasons for decision for C01N Pty Ltd for the period 1 July 2012 to 30 June 2013 (2016/3/11)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.courtlistener.com/docket/6309656/547/7/kleiman-v-wright/"&gt;https://www.courtlistener.com/docket/6309656/547/7/kleiman-v-wright/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/TAQP7"&gt;https://archive.ph/TAQP7&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;local copy: 
+	&lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-06/gov.uscourts.flsd_.521536.547.7.pdf" type="application/pdf"&gt;gov.uscourts.flsd_.521536.547.7.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Sham legal contract &amp; use of forgeries&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;221 Considered cumulatively, we consider that these anomalies and inconsistencies lead to the conclusion that the purported agreement [between C01N and W&amp;K] amounts to a sham. It is considered that the purported agreement was not intended to create the legal rights and obligations it gives the appearance of creating, but was, rather, intended to be a disguise for some other transaction or for no transaction at all.&lt;/p&gt;
+
+&lt;p&gt;222 At the outset, we note that the taxpayer’s contentions rely almost exclusively electronic evidence that cannot be verified by independent third parties, and in some instance has been proven to have been fabricated.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4&gt;Claim the company owned a “supercomputer” was an egregious lie, supported by multiple frauds and manipulated evidences&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;224.1 none of the information supplied to the ATO by the taxpayer is sufficiently reliable to support the assertion that it has access to, or built, a supercomputer matching the specifications of the purported C01N supercomputer.&lt;/p&gt;
+
+&lt;p&gt;224.2 the results shown on screen of the hardward suggest that someone has manipulated the results in an attempt to replicate the specifications of the purported C01N supercomputer, however, when examined more closely, the results show inconsistencies and errors which should not occur.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p class="text-align-center"&gt;...[various evidences are listed]...&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;224.4 These errors and inconsistencies would not occur if a legitimate system with the specifications claimed to have been acquired by the taxpayer was being interrogated.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p class="text-align-center"&gt;...&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;224.9 ...The most reasonable conclusion to draw from the material presented is that someone has produced reports and then deliberately modified the results, with the intention of misleading the ATO into accepting that a supercomputer, as described by the taxpayer, had been acquired.&lt;/p&gt;
+
+&lt;p&gt;224.10 Given Dr Wright’s relevant qualifications and experience we understand that he would have sufficient computer programming skills to be able to make the system appear to be using known commands but program those commands to produce the results he wants to show.&lt;/p&gt;
+
+&lt;p&gt;225 From these anomalies, and our conclusions below regarding the purported agreement and payment, we conclude that the taxpayer did not have access to the purported supercomputer. Given Dr Wright’s extensive IT qualifications, it is inconceivable that he was unaware of this fact. We therefore conclude that the evidence provided to us was manufactured by the taxpayer in an attempt to deceive us.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4&gt;Creation of fraudulent documents to support the claim of a contract betwen C01N and W&amp;K&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;229 ...In fact, we infer that these documents were created with the intention of deceiving the Commissioner and in order to support the false and misleading statements of the taxpayer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4&gt;Claim to be associated with a successful and famous mathematician (Prof David Rees) and passing off software code from a publicly available library as his own&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;265 Professor Sarah Rees [Professor David’s daughter] indicated that she was only aware of one unpublished paper written by her father and that the content of that paper was later published in an updated form. We also asked to see evidence of the software provided under licence. The taxpayer showed us one piece of software and refused our request to run it. Professor Sarah Rees advised us that her father did not write software. We further note that the software showed to us resembles that available from the CoCoA library. The taxpayer provided no evidence of the ‘algebra’ provided. All four of Professor Rees’ daughters advise they have never heard of the taxpayer or Dr Wright. Professor Sarah Rees also advised that Professor Rees did not undertake consulting work. Accordingy, we do not accept that the taxpayer acquired anything from Professor Rees.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4&gt;Claims to have made payments in Bitcoin through untraceable means, fabricating a "trust" to explain away lack of evidence&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;267 The taxpayer has not substantiated that it paid Professor Rees, and has provided anomalous accounts of this. The taxpayer first advised that it had instructed an amount be held in trust for Professor Rees. The taxpayer then advised that it provided private keys to Professor Rees on 28 June 2013. Then it advised the Bitcoin was held in trust for Professor Rees until the keys were released.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p class="text-align-center"&gt;...[various anomalies are listed]...&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;269 The taxpayer has not provided any evidence to substantiate the statement in the background to the Software Development Agreement that Mr Kleiman funded the agreement and then advised that following Mr Kleiman’s death, Hotwire funded the agreement. The taxpayer declined to sign messages within the relevant addresses to evidence that it controlled them, stating that once the keys had been released to third parties, they cannot be recreated.&lt;br /&gt;
+ &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;&lt;a id="Dispute with Reliantco Investments Ltd (2017-2020)" name="Dispute with Reliantco Investments Ltd (2017-2020)"&gt;&lt;/a&gt;Dispute with Reliantco Investments Ltd (2017-2020)&lt;/h1&gt;
+
+&lt;h3&gt;&lt;a id="Ramona ANG v Reliantco Investments Ltd [2019] EWHC 879 (Comm)" name="Ramona ANG v Reliantco Investments Ltd [2019] EWHC 879 (Comm)"&gt;&lt;/a&gt;Ramona ANG v Reliantco Investments Ltd [2019] EWHC 879 (Comm) (2019/4/12)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.bailii.org/ew/cases/EWHC/Comm/2019/879.html"&gt;https://www.bailii.org/ew/cases/EWHC/Comm/2019/879.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/diMWe"&gt;https://archive.ph/diMWe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;&lt;a id="Ang v Reliantco Investments Ltd [2020] EWHC 3242 (Comm)" name="Ang v Reliantco Investments Ltd [2020] EWHC 3242 (Comm)"&gt;&lt;/a&gt;Ang v Reliantco Investments Ltd [2020] EWHC 3242 (Comm) (2020/11/27)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWHC/Comm/2020/3242.html"&gt;https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWHC/Comm/2020/3242.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/77Puh"&gt;https://archive.ph/77Puh&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Judge Butcher:&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;49. Dr Wright gave evidence. He was an unsatisfactory witness in many respects. He was belligerent, argumentative and deliberately provocative. He evaded questions to which he did not wish to give a straight answer. On occasion he refused to accept what documents plainly indicated. He was prepared to make grave and unsustainable allegations, for example in relation to the supposed fabrication by or on behalf of Reliantco of an email from him of 3 September 2017. He sought on occasion to blind with (computer) science. I came to the conclusion that I could not rely on Dr Wright's evidence as to whether and how particular events had happened unless it was supported by documentation, other evidence I could accept or by the inherent probabilities.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;a id="Sued for Fraud by Ira Kleiman" name="Sued for Fraud by Ira Kleiman"&gt;&lt;/a&gt;Sued by Ira Kleiman for Fraud (2018-present)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/h1&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;original full court docket: &lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/"&gt;https://www.courtlistener.com/docket/6309656/kleiman-v-wright/&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All numbers refer to the entry number in this court listener docket&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id="Map of the Court Docket" name="Map of the Court Docket"&gt;&lt;/a&gt;Map of the Court Docket&lt;/h2&gt;
+
+&lt;table border="1" cellpadding="1" cellspacing="1" style="width: 100%;"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td class="text-align-center" colspan="3" rowspan="1"&gt;&lt;strong&gt;General&lt;/strong&gt;&lt;/td&gt;
+			&lt;td class="text-align-center" colspan="3" rowspan="1"&gt;&lt;strong&gt;Discovery&lt;/strong&gt;&lt;/td&gt;
+			&lt;td class="text-align-center"&gt;&lt;strong&gt;Mediation&lt;/strong&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td class="text-align-center"&gt;&lt;strong&gt;Plaintiffs' Agenda&lt;/strong&gt;&lt;/td&gt;
+			&lt;td class="text-align-center"&gt;&lt;strong&gt;Defendant's Agenda&lt;/strong&gt;&lt;/td&gt;
+			&lt;td class="text-align-center"&gt;&lt;strong&gt;Neither&lt;/strong&gt;&lt;/td&gt;
+			&lt;td class="text-align-center"&gt;&lt;strong&gt;Plaintiffs's Agenda&lt;/strong&gt;&lt;/td&gt;
+			&lt;td class="text-align-center"&gt;&lt;strong&gt;Defendant's Agenda&lt;/strong&gt;&lt;/td&gt;
+			&lt;td class="text-align-center"&gt;&lt;strong&gt;Neither&lt;/strong&gt;&lt;/td&gt;
+			&lt;td class="text-align-center"&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-1"&gt;#1 Complaint&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#2-11&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-12"&gt;#12 Motion to Dismiss&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;#13-20&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-21"&gt;#21 Scheduling Order&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-22"&gt;#22 Standing Discovery Order&lt;/a&gt;, #23&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-24"&gt;#24 Amended Complaint&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-25"&gt;#25 Denial of #12 Motion to Dismiss&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;#26-28&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#29-30&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#31-32 Prep for &lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-33"&gt;#33 Amended Motion to Dismiss&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;#34-35&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-36"&gt;#36 Motion to Stay Discovery&lt;/a&gt;, #37, &lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-38"&gt;#38 Refiled&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;#39&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-40"&gt;#40 Response to Motion to Stay Discovery&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#41-49&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-50"&gt;#50 Response to #33 Motion To Dismiss&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#51-56&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-57"&gt;#57 Order granting #36 Motion to Stay Discovery&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;#58-60&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-61"&gt;#61 Response to #50 Response to #36 Motion to Dismiss&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;#62-67&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-68"&gt;#68 Order part grant part deny #33 Motion to Dismiss&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;#69&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#70-72&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td class="text-align-center" colspan="7" style="background-color: rgb(135, 206, 250); border-color: rgb(0, 0, 0);"&gt;&lt;strong&gt;2019&lt;/strong&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#73-74&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#75&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#76-77&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-78"&gt;#78 Scheduling Order&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#79&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-80"&gt;#80 Answer and Affirmative Defenses to #24 Amended Complaint&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;#81-82 Prep for &lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-83"&gt;#83 Second Amended Complaint&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#84-86&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-87"&gt;#87 Amended Answer and Affirmative Defenses to #83 Second Amended Complaint&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#88&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#89&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#90&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-91"&gt;#91 Response to #90&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-92"&gt;#92 Response to #90&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-93"&gt;#93 Response to #90&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;#94&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-95"&gt;#95 Motion to strike #87 Amended Answer and Affirmative Defenses&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-96"&gt;#96 Response to #91&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-97"&gt;#97 Response to #93&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;#98-100&lt;/td&gt;
+			&lt;td&gt;#101&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/#entry-102"&gt;#102 Standing Discovery Order&lt;/a&gt;, #103-104&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-105"&gt;#105 Joint Confidentiality Order&lt;/a&gt;, #106 Granted&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-107"&gt;#107 Transcript of discovery hearing 2019/2/20&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-108"&gt;#108 Response to #95 to strike #87&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-109"&gt;#109 Joint Discovery Status Report&lt;/a&gt;, #110&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-111"&gt;#111 Reply to #108&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#112-113 Prep for &lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-114"&gt;#114 Joint Discovery Status Report&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-115"&gt;#115&lt;/a&gt;-116 &lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-115"&gt;Joint Confidentiality Order&lt;/a&gt;, &lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-117"&gt;#117 Partially Granted&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#118-121 Leading to &lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-122"&gt;#122 Transcript of discovery hearing 2019/7/3&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#123 duplicate of #107? &lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-124"&gt;#124 Transcription of discovery status conference 2019/3/14 &lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#125 order refering handling of #95 to Reinhart, #126&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-127"&gt;#127 Joint Discovery Status Report&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#128&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#129&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-130"&gt;#130 Recommendation to deny #95&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-131"&gt;#131 Requests a Discovery Status Conference&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-132"&gt;#132 Order denying #131&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-133"&gt;#133 Requests Relief on Document Production&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-134"&gt;#134 Opposition to #133&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-135"&gt;#135 Order denying #133&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#136&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-137"&gt;#137 Rulings on e.g. what questions Wright can and can't answer&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-138"&gt;#138 Discovery Memorandum&lt;/a&gt;, #139-140&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-141"&gt;#141 Opposition to #138&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#142&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-143"&gt;#143 Adopting #130, so denying #95&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-144"&gt;#144 Motion for judgement on the pleadings&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-145"&gt;#145 Motion to continue to trial&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-146"&gt;#146 Transcript of discovery hearing on 2019/4/15&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-147"&gt;#147 Modification on #145&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-148"&gt;#148 Order partly granting #145 and Scheduling&lt;/a&gt; and &lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-149"&gt;#149 Amendment to #148&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-150"&gt;#150 Motion to Seal for Protective Order&lt;/a&gt; and &lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-151"&gt;#151 Motion to Seal List of Bitcoin Addresses on 2013/12/31&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;#152 Grants #150 and #153 Grants #151&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-154"&gt;#154 Withdrawing exhibit from #144&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#155 SEALED, presumably about Craig revealing his Bitcoin addresses (see #166)&lt;/td&gt;
+			&lt;td&gt;#156 SEALED&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-157"&gt;#157 Supporting request to redepose Wright to ask questions about his first wife.&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#158&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-159"&gt;#159 Response to #144&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-160"&gt;#160 Opposition to #157&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;#161-162 SEALED&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#163-164&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-165"&gt;#165 Order on #157&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-166"&gt;#166 Order denying #155, requiring production of a list of public addresses&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-167"&gt;#167 Extension of time requested for #166&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-168"&gt;#168 48 hrs extra granted in response to #167&lt;/a&gt;, #169&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-170"&gt;#170 Response to #157&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-171"&gt;#171 Response to #159&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#172&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-173"&gt;#173 Ruling supporting the arguments for #157, the request to redepose Craig, but delaying decision until after he has disclosed his Bitcoin holdings.&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;#174 SEALED&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-175"&gt;#175-176 Regarding the filing of Exhibit 1 in #157 without p. 370.&lt;/a&gt; &lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=&amp;entry_lte=&amp;order_by=asc#entry-177"&gt;#177 The exhibit—transcript of Wright not answering questions about his wife.&lt;/a&gt; #179-182 regarding the sealing.&lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://storage.courtlistener.com/recap/gov.uscourts.flsd.521536/gov.uscourts.flsd.521536.178.0.pdf"&gt;#178 Redacted partial list of Wright's claimed Bitcoin holdings.&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href="https://www.courtlistener.com/docket/6309656/kleiman-v-wright/?filed_after=&amp;filed_before=&amp;entry_gte=175&amp;entry_lte=&amp;order_by=asc#entry-183"&gt;#183 Regarding redaction of #162&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2&gt;&lt;a id="Statements by the Judges on Craig Wright's Credibility" name="Statements by the Judges on Craig Wright's Credibility"&gt;&lt;/a&gt;Statements by the Judges on Craig Wright's Credibility&lt;/h2&gt;
+
+&lt;h3&gt;Order on Motion for Judgment on the Pleadings — Document #265&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.courtlistener.com/docket/6309656/265/kleiman-v-wright/"&gt;https://www.courtlistener.com/docket/6309656/265/kleiman-v-wright/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/t55rR"&gt;https://archive.ph/t55rR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Judge Bloom, pp. 4-5&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In his Motion, Defendant argues that both Nguyen and Coin-Exch were members of W&amp;K, and that their membership would destroy diversity in this action. ECF No. [144], at 11-13. Then, for the first time in his Reply, the Defendant argues that his ex-wife Lynn Wright was also a member of W&amp;K. ECF No. [171], at 6-7.&lt;/p&gt;
+
+&lt;p class="text-align-center"&gt;“Oh! What a tangled web we weave when first we practice to deceive.”&lt;/p&gt;
+
+&lt;p class="text-align-center"&gt;Sir Walter Scott, Marmion (1808).&lt;/p&gt;
+
+&lt;p&gt;This is not the first time that the Defendant has made certain representations regarding the membership of W&amp;K. Indeed, the Court notes that the Defendant has made several conflicting statements regarding even his own ownership of W&amp;K. ECF No. [256], at 29:24-25 (“Judge, I get that there are a number of different statements by Dr. Wright.”)&lt;/p&gt;
+
+&lt;p&gt;These statements include:&lt;/p&gt;
+
+&lt;p&gt;On April 2, 2013, the Defendant signed a contract, representing that Dave Kleiman is 100% owner of W&amp;K, which was filed before the Supreme Court of New South Wales. ECF No. [83-5], at 1.&lt;/p&gt;
+
+&lt;p&gt;On or about July and August of 2013, the Defendant filed a sworn affidavit in the Supreme Court of New South Wales declaring that he and Dave Kleiman each owned 50% of W&amp;K. ECF No. [83-4], at 4.&lt;/p&gt;
+
+&lt;p&gt;On April 16, 2018, in a sworn affidavit the Defendant stated that he has “never been a member of W&amp;K.” ECF No. [12-2], at ¶ 12 (emphasis added).&lt;/p&gt;
+
+&lt;p&gt;On June 28, 2019, during his deposition the Defendant testified under oath that he has “no idea” who the owners of W&amp;K were, and unequivocally stated that he was not an owner of W&amp;K. See ECF No. [242-1], at (233:12-14) (“Q: Who owned W&amp;K in reality? A. Not me.”) and (233:22-23) (“Q. You have no idea who owns W&amp;K? A. I do not know that.”).&lt;/p&gt;
+
+&lt;p&gt;Now, in his Motion and contrary to the statements above, the Defendant argues that three additional parties may be members of W&amp;K. ... The Court has thus conducted a careful review of the evidence presented by the Defendant and the record in this case, and finds, however, that the Defendant has failed to present any credible evidence showing that any of the parties he suggests are members of W&amp;K.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;p. 10:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;At the Hearing, Defendant argued that the Court cannot both rely upon and find that the statements and evidence provided by him are untrue. See ECF No. [256], at 100:6-9 (“Judge, if everything’s a lie, then the stuff they rely on when Wright files a contract, or when Wright makes a statement, can’t be credited either.”). Here, Defendant’s argument is novel. He seems to argue that even though his numerous conflicting statements are the very reason confusion has been created as to the ownership of W&amp;K, the Court should nonetheless use these statements as a basis to challenge the Court’s subject matter jurisdiction. In essence, the Defendant uses the evidence proffered as both his sword and his shield. Unfortunately, the record is replete with instances in which the Defendant has proffered conflicting sworn testimony before this Court.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3&gt;Order — Document #277&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.courtlistener.com/docket/6309656/277/kleiman-v-wright/"&gt;https://www.courtlistener.com/docket/6309656/277/kleiman-v-wright/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Judge Reinhart, p. 2&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Two preliminary points. First, the Court is not required to decide, and does not decide, whether Defendant Dr. Craig Wright is Satoshi Nakamoto, the inventor of the Bitcoin cybercurrency. The Court also is not required to decide, and does not decide, how much bitcoin, if any, Dr. Wright controls today. For purposes of this proceeding, the Court accepts Dr. Wright’s representation that he controlled (directly or indirectly) some bitcoin on December 31, 2013, and that he continues to control some today.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4&gt;p. 5&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The Court ruled that Plaintiffs were entitled to a list of Dr. Wright’s bitcoin holdings, but granted Dr. Wright leave to file a motion for protective order based on undue burden. Id. at 22-23. Notably, the Court did not specify the information Dr. Wright was required to use to generate the list. Specifically, the Court did not order production of a list of public addresses.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Dr. Wright was deposed on April 4. During his deposition, he testified that a trust called the Tulip Trust was formalized in 2011, but never owned or possessed private keys to bitcoin addresses. DE 270-1 at 22. He also testified that Uyen Nguyen had ceased to be a trustee of any trust related to Dr. Wright in 2015. Id. at 24. He further testified that he had stopped mining bitcoin in 2010. He declined to answer questions about how much bitcoin he mined in 2009-2010; this issue was reported to the Court during the deposition.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4&gt;p. 10&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In his response, Dr. Wright conceded that he has not complied with the Court’s order, but argued that compliance was impossible. DE 204 (redacted version filed at DE 211). Expanding on the representation made in Paragraph 23 of his declaration, he argued that information necessary to produce a complete list of his bitcoin holding on December 31, 2011, was in the Tulip Trust I in a file that is encrypted using “‘Shamir’s Secret Sharing Algorithm’, an algorithm created by Adi Shamir to divide a secret, such as a private encryption key, into multiple parts.” DE 211 at 5. Dr. Wright asserted that he could not decrypt the outer level of encryption because he did not have all of the necessary decryption keys. Id. He stated that after using a Shamir system to encrypt this information, “The key shares were then distributed to multiple individuals through the [blind] trusts” and “he alone does not have ability to access the encrypted file and data contained in it.” Id.&lt;br /&gt;
+The Court held a hearing on June 11 on the Motion. DE 221. Plaintiffs’ counsel pointed out that under oath in his deposition Dr. Wright denied ever putting bitcoin into a trust, and denied putting any private keys into the Tulip Trust. DE 221 at 8-9.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4&gt;p. 16&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Although I find clear and convincing evidence that would support a civil contempt, the sanctions available under Rule 37 are sufficient, so I exercise my discretion and do not certify facts to Judge Bloom for civil contempt proceedings.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Fourth, I impose the following sanctions pursuant to Rule 37(b). For purposes of this action, it is established that (1) Dr. Wright and David Kleiman entered into a 50/50 partnership to develop Bitcoin intellectual property and to mine bitcoin; (2) any Bitcoin-related intellectual property developed by Dr. Wright prior to David Kleiman’s death was property of the partnership, (3) all bitcoin mined by Dr. Wright prior to David Kleiman’s death (“the partnership’s bitcoin”) was property of the partnership when mined; and (4) Plaintiffs presently retain an ownership interest in the partnership’s bitcoin, and any assets traceable to them. To conform to these established facts, the Court strikes Dr. Wright’s Third Affirmative Defense (Good Faith), Fourth Affirmative Defense (Accord and Satisfaction), Fifth Affirmative Defense (Release), Sixth Affirmative Defense (Payment), Seventh Affirmative Defense (Set-off), Eighth Affirmative Defense (Failure to Mitigate Damages), Seventh [sic] Affirmative Defense (Waiver), and Tenth Affirmative Defense (Statute of Frauds).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4&gt;p. 17&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;As will be discussed below, the evidence in the record demonstrated that Dr. Wright (directly and through counsel) made inconsistent statements about material matters.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4&gt;p. 19-20&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Apparently, dead men tell no tales, but they (perhaps) send bonded couriers. See John Dryden, “The Spanish Fryar or The Double Discovery”, Act IV, Scene 1 (1681) (“there is a Proverb, I confess, which says, That Dead men tell no Tales.”). I completely reject Dr. Wright’s testimony about the alleged Tulip Trust, the alleged encrypted file, and his alleged inability to identify his bitcoin holdings.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Dr. Wright’s story not only was not supported by other evidence in the record, it defies common sense and real-life experience. Consider his claims. He designed Bitcoin to be an anonymous digital cash system with an evidentiary trail. DE 236 at 15. He mined approximately 1,000,000 bitcoin, but there is no accessible evidentiary trail for the vast majority of them. He is a latter-day Dr. Frankenstein whose creation turned to evil when hijacked by drug dealers, human traffickers, and other criminals. Id. at 16-17. To save himself, he engaged David Kleiman to remove all traces of his involvement with Bitcoin from the public record. Id. at 16. As part of his efforts to disassociate from Bitcoin and “so that I wouldn’t be in trouble,” he put all his bitcoin (and/or the keys to it – his story changed) into a computer file that is encrypted with a hierarchical Shamir encryption protocol. See Id. at 23. He then put the encrypted file into a “blind” trust (of which he is one of the trustees), gave away a controlling number of the key slices to now-deceased David Kleiman, and therefore cannot now decrypt the file that controls access to the bitcoin. His only hope is that a bonded courier arrives on an unknown dated in January 2020 with the decryption keys. If the courier does not appear, Dr. Wright has lost his ability to access billions of dollars worth of bitcoin, and he does not care. Id. at 21-22. Inconceivable.&lt;/p&gt;
+
+&lt;p&gt;During his testimony, Dr. Wright’s demeanor did not impress me as someone who was telling the truth. When it was favorable to him, Dr. Wright appeared to have an excellent memory and a scrupulous attention to detail. Otherwise, Dr. Wright was belligerent and evasive. He did not directly and clearly respond to questions. He quibbled about irrelevant technicalities. When confronted with evidence indicating that certain documents had been fabricated or altered, he became extremely defensive, tried to sidestep questioning, and ultimately made vague comments about his systems being hacked and others having access to his computers. None of these excuses were corroborated by other evidence.&lt;/p&gt;
+
+&lt;p&gt;Sadly, Dr. Wright does not write on a clean slate. As Judge Bloom recently noted in denying Dr. Wright’s Motion for Judgment on the Pleadings, Dr. Wright has taken directly conflicting factual positions at different times during this litigation. DE 265 at 10 (“[T]he record is replete with instances in which the Defendant has proffered conflicting sworn testimony before this Court.). As discussed below, that behavior continued before me. Dr. Wright has a substantial stake in the outcome of the case. If Plaintiffs succeed on their claims, Dr. Wright stands to lose billions of dollars. That gives him a powerful motive not to identify his bitcoin. As long as the relevant addresses remain secret, he can transfer the bitcoin without the Plaintiffs being able to find them. After all, Bitcoin is an anonymous cybercurrency.&lt;/p&gt;
+
+&lt;p&gt;Similarly, Dr. Wright had many reasons not to tell the truth. Most notably, Dr. Wright might want to prevent the Plaintiffs (or others) from finding his Bitcoin trove. Alternatively, there was evidence indicating that relevant documents were altered in or about 2014, when the Australian Tax Office was investigating one of Dr. Wright’s companies. Perhaps Dr. Wright’s testimony here is motivated by certain legal and factual positions he took in the Australian Tax Office investigation and from which he cannot now recede. &lt;/p&gt;
+
+&lt;p&gt;There was substantial credible evidence that documents produced by Dr. Wright to support his position in this litigation are fraudulent. There was credible and compelling evidence that documents had been altered. Other documents are contradicted by Dr. Wright’s testimony or declaration. While it is true that there was no direct evidence that Dr. Wright was responsible for alterations or falsification of documents, there is no evidence before the Court that anyone else had a motive to falsify them. As such, there is a strong, and unrebutted, circumstantial inference that Dr. Wright willfully created the fraudulent documents.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4&gt;pp. 21-22&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Dr. Wright’s false testimony about the Tulip Trust was part of a sustained and concerted effort to impede discovery into his bitcoin holdings. Start with Dr. Wright’s deceptive and incomplete discovery pleadings. He testified at the evidentiary hearing that at least as early as December 2018 he knew that he could not provide a listing of his bitcoin holdings. Yet, the Court was not told this “fact” until April 18, 2019.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;pp. 22-23&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Nevertheless, having failed to hold off discovery on legal grounds, after March 14, Dr. Wright changed course and started making affirmative misleading factual statements to the Court. His April 18 Motion argued for the first time, “In 2011, Dr. Wright transferred ownership of all his Bitcoin into a blind trust. Dr. Wright is not a trustee or beneficiary of the blind trust. Nor does Dr. Wright know any of the public addresses which hold any of the bitcoin in the blind trust. Thus, Dr. Wright, does not know and cannot provide any other public addresses.” This pleading was intended to communicate the impression that Dr. Wright had no remaining connection to the bitcoin. It was also intended to create the impression that the bitcoin themselves had been transferred to the trust.&lt;/p&gt;
+
+&lt;p&gt;Dr. Wright almost immediately made irreconcilable statements about the Tulip Trust. The April 18 Motion stated it was a blind trust and he was not a trustee. His sworn declaration three weeks later stated that he is one of the trustees of the Tulip Trust. The trust can hardly be considered “blind” (as represented in the April 18 Motion) if Dr. Wright is one of the trustees. At least one set of these representations about the trust and Dr. Wright’s status as a trustee necessarily is intentionally misleading.&lt;/p&gt;
+
+&lt;p&gt;Dr. Wright also changed his story about what is in the alleged trust. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;pp. 23-24&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The hearing testimony that the trust holds only keys, not bitcoin, cannot be reconciled with the statements in the April 18 Motion and the May 8 declaration that it contains bitcoin. At least one of these representations is intentionally false. During his testimony at the evidentiary hearing, Dr. Wright made a point of being precise in his use of terms, including contesting whether a document was an email or a pdf of an email. It is not credible that, given his claim to have an unmatched understanding of Bitcoin, he would have mistaken the Bitcoin currency for the keys that control the ability to transfer the currency. I find instead that he belatedly realized that any transaction(s) transferring bitcoin into the alleged Tulip Trust would be reflected on the Bitcoin master blockchain, that he would then be required to identify those transaction(s), and that Plaintiffs could use that information to trace the bitcoin. So, Dr. Wright changed his story to say that only the keys had been transferred.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4&gt;p. 24&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;After observing Dr. Wright’s demeanor and the lack of any other credible evidence in the record that this file exists, I find that a preponderance of the evidence establishes that no such file exists and that Dr. Wright’s testimony was intentionally false.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4&gt;p. 25&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Another aspect of Dr. Wright’s story also changed at the evidentiary hearing. He argued for the first time that a list of public addresses was meaningless. This position is particularly disturbing because it was Dr. Wright who first injected the idea of public addresses into this discovery matter. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;p. 26&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Either his delay in to doing so is deceptive and misleading, or his testimony that the public address is a meaningless piece of evidence is intentionally false.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In sum, after days of testimony, multiple discovery hearings, and lengthy pleadings, the sole evidence supporting Dr. Wright’s claim that he cannot comply with the Court’s Orders is the uncorroborated word of Dr. Wright. That word is insufficient to meet his evidentiary burden. Moreover, the totality of the evidence, including a negative inference drawn from Dr. Wright’s incredible testimony and use of fraudulent documents, is more than sufficient to meet Plaintiffs’ burden.&lt;/p&gt;
+
+&lt;p&gt;Dr. Wright argues that he would never risk going to jail for contempt or having sanctions imposed against him if he could produce a list of his bitcoin holdings. He argues it would not be credible that anyone would make that choice. Equally, if not more incredible, is the idea that someone who controlled almost 1 million bitcoin would encrypt it in a way that he could not access it, and then would not care if he lost it all. Additionally, as discussed above, there are many reasons a person in Dr. Wright’s situation would take that risk.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4&gt;p. 27&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;There is clear and convincing evidence that Dr. Wright’s non-compliance with the Court’s Orders is willful and in bad faith,&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;p. 28&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I have found that Dr. Wright intentionally submitted fraudulent documents to the Court, obstructed a judicial proceeding, and gave perjurious testimony. No conduct is more antithetical to the administration of justice. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;&lt;a id="Sues Peter McCormack for Libel" name="Sues Peter McCormack for Libel"&gt;&lt;/a&gt;Sues Peter McCormack for Libel (2019)&lt;/h1&gt;
+
+&lt;p&gt;These are publicly available documents available by request to the UK court. Made available here for convenience in the public interest.&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id="Wright_McCormack_Claim"&gt;&lt;/a&gt;Particulars of Claim (2019/5/1)&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;local: 
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-08/2019_05_01%20Filing%20-%20Particulars%20of%20Claim.pdf" type="application/pdf"&gt;2019_05_01 Filing - Particulars of Claim.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;&lt;a id="Wright_McCormack_Defence"&gt;&lt;/a&gt;Defence (2019/8/8)&lt;/h2&gt;
+
+&lt;p&gt;Two copies of this document were provided by the court.&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;local A: 
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-08/2019_08_08%20Filing%20-%20Defence1.pdf" type="application/pdf"&gt;2019_08_08 Filing - Defence1.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+	&lt;li&gt;local B: 
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-08/2019_08_08%20Filing%20-%20Defence2.pdf" type="application/pdf"&gt;2019_08_08 Filing - Defence2.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;&lt;a id="Wright_McCormack_Reply_to_Defence"&gt;&lt;/a&gt;Reply to Defence (2019/10/11)&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;local: 
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-08/2019_10_11%20Filing%20-%20Reply.pdf" type="application/pdf"&gt;2019_10_11 Filing - Reply.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;&lt;a id="Wright_McCormack_Response_to_RFI"&gt;&lt;/a&gt;Defence Response to Claimants Request for Information (2019/11/19)&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;local: 
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-08/2019_11_19%20Filing%20-%20Response%20to%20Request%20for%20Further%20Information.pdf" type="application/pdf"&gt;2019_11_19 Filing - Response to Request for Further Information.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;&lt;a id="Wright_McCormack_Amended_Claim"&gt;&lt;/a&gt;Amended Particulars of Claim (2019/12/19)&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;local: 
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-08/2019_12_19%20Filing%20-%20Amended%20Particulars%20of%20Claim.pdf" type="application/pdf"&gt;2019_12_19 Filing - Amended Particulars of Claim.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;&lt;a id="Wright_McCormack_Amended_Defence"&gt;&lt;/a&gt;Amended Defence (2020/3/18)&lt;/h2&gt;
+
+&lt;p&gt;The court provided two documents with the same filing date:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;local amended defence: 
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-08/2020_03_18%20Filing%20-%20Amended%20Defence.pdf" type="application/pdf"&gt;2020_03_18 Filing - Amended Defence.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+	&lt;li&gt;local draft (of the above?): 
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-08/2020_03_18%2033733733-v1-33731048-v1-2021.02.11%20-%20DRAFT%20RE-AMENDED%20DEFENCE.pdf" type="application/pdf"&gt;2020_03_18 33733733-v1-33731048-v1-2021.02.11 - DRAFT RE-AMENDED DEFENCE.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;&lt;a id="Wright_McCormack_Re_Amended_Reply"&gt;&lt;/a&gt;Amended Reply (2020/4/22)&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;local: 
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-08/2020_04_22%20Filing%20-%20Amended%20Reply.pdf" type="application/pdf"&gt;2020_04_22 Filing - Amended Reply.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;&lt;a id="Wright_McCormack_Pre_Trial_Review"&gt;&lt;/a&gt;Pre-Trial Review (2021/10/8)&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWHC/QB/2021/2671.html"&gt;https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWHC/QB/2021/2671.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.is/o51dH"&gt;https://archive.is/o51dH&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;&lt;a id="Sues Adam Back for Libel" name="Sues Adam Back for Libel"&gt;&lt;/a&gt;Sues Adam Back for Libel (2019)&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;a id="Sues Roger Ver for Libel" name="Sues Roger Ver for Libel"&gt;&lt;/a&gt;Sues Roger Ver for Libel (2019-2020)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/h1&gt;
+
+&lt;h3&gt;&lt;a id="Claim for libel dismissed due to jurisdiction" name="Claim for libel dismissed due to jurisdiction"&gt;&lt;/a&gt;Claim for libel dismissed due to jurisdiction (2019/7/31)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWHC/QB/2019/2094.html"&gt;https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWHC/QB/2019/2094.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/bhDs6"&gt;https://archive.ph/bhDs6&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Judge Nicklin's comments on "damage" to Wright's reputation:&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;46. Mr Wolanski QC confirmed that there is no other evidence as to the extent of the Claimant's reputation in the UK (or elsewhere). Specifically, there is no evidence at all of any actual reputational harm that the Claimant has suffered as a result of any of the Defendant's publications.&lt;/p&gt;
+
+&lt;p&gt;47. Mr Tomlinson QC submits, correctly in my judgment, that the Claimant has not provided the Court with any evidence (beyond the limited material I have set out above) as to the global reputation he enjoys and, more particularly, the extent to which it has been damaged by the Defendant's publications. With some justification, Mr Tomlinson QC suggests that the Court has been "blindfolded" as to where the Claimant has suffered serious reputational harm.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;50. In my judgment, the Claimant's evidence as to the extent of harm that the publications have caused (or are likely to cause) is weak, lacks detail and the three paragraphs I have set out ([42] above) put forward evidence at a level of generality that is almost entirely speculative. There is no objective evidence of any harm to reputation in England and Wales. The Claimant has failed completely to address whether and to what extent the publications complained of have harmed his reputation in other jurisdictions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3&gt;&lt;a id="Failed appeal" name="Failed appeal"&gt;&lt;/a&gt;Failed appeal (2020/5/29)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWCA/Civ/2020/672.html"&gt;https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWCA/Civ/2020/672.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/BVRp3"&gt;https://archive.ph/BVRp3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;&lt;a id="Sues Vitalik Buterin for Libel" name="Sues Vitalik Buterin for Libel"&gt;&lt;/a&gt;Sues Vitalik Buterin for Libel (2019)&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;&lt;a id="Sues @hodlonaut for Libel" name="Sues @hodlonaut for Libel"&gt;&lt;/a&gt;Sues @hodlonaut for Libel (2019)&lt;/h1&gt;
+
+&lt;h2&gt;&lt;a id="UK Lawsuit" name="UK Lawsuit"&gt;&lt;/a&gt;UK Lawsuit&lt;/h2&gt;
+
+&lt;h3&gt;&lt;a id="hodlonaut-particulars" name="hodlonaut-particulars"&gt;&lt;/a&gt;Particulars of Claim (22 July 2019)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;local: 
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-09/Filing%20-%20Particulars%20of%20Claim.pdf" type="application/pdf"&gt;Filing - Particulars of Claim.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hiatus while the UK Jurisdiction dispute was underway.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id="hodlonaut-amended-particulars" name="hodlonaut-amended-particulars"&gt;&lt;/a&gt;Amended Particulars of Claim (22 March 2021)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;local:
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-09/2021%2003%2022_Wright%20v%20hodlonaut%20-%20Signed%20Amended%20Particulars%20of%20Claim.pdf" type="application/pdf"&gt;2021 03 22_Wright v hodlonaut - Signed Amended Particulars of Claim.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;&lt;a id="hodlonaut-defence" name="hodlonaut-defence"&gt;&lt;/a&gt;Defence (23 April 2021)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;local: 
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-09/hodlonaut%20-%20Defence%2023%20Apr%202021.pdf" type="application/pdf"&gt;hodlonaut - Defence 23 Apr 2021.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;&lt;a id="hodlonaut-reply-to-defence" name="hodlonaut-reply-to-defence"&gt;&lt;/a&gt;Reply to Defence (23 June 2021)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;local: 
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-09/2021%2006%2023_Wright%20v%20hodlonaut%20-%20Reply%20to%20Defence%20dated%2023%20June%202021.pdf" type="application/pdf"&gt;2021 06 23_Wright v hodlonaut - Reply to Defence dated 23 June 2021.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;&lt;a id="Negative Declaratory Relief Proceedings in Norway" name="Negative Declaratory Relief Proceedings in Norway"&gt;&lt;/a&gt;Negative Declaratory Relief Proceedings in Norway&lt;/h2&gt;
+
+&lt;p&gt;Nothing publicly available at present.&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id="UK Jurisdiction Dispute" name="UK Jurisdiction Dispute"&gt;&lt;/a&gt;UK Jurisdiction Dispute&lt;/h2&gt;
+
+&lt;h3&gt;&lt;a id="Wright v hodlonaut [2020] EWHC 51 (QB)" name="Wright v hodlonaut [2020] EWHC 51 (QB)"&gt;&lt;/a&gt;Wright v hodlonaut [2020] EWHC 51 (QB) (16 January 2020)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWHC/QB/2020/51.html"&gt;https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWHC/QB/2020/51.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.is/Ee070"&gt;https://archive.is/Ee070&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Judge Jay&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;91. ...I therefore hold that Dr Wright has no substantive right to sue in a situation where – as I have held - the lis pendens provisions of Article 27 of the Lugano Convention defeat his claim.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3&gt;&lt;a id="Wright v hodlonaut [2021] EWCA Civ 28" name="Wright v hodlonaut [2021] EWCA Civ 28"&gt;&lt;/a&gt;Wright v hodlonaut [2021] EWCA Civ 28 (appeal of the previous) (15 January 2021)&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWCA/Civ/2021/28.html"&gt;https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWCA/Civ/2021/28.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Judge Popplewell&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;2. ...On 31 October 2008 an academic paper was published online under the name Satoshi Nakamoto describing the manner in which the electronic cash system operated.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;&lt;a id="Lynn Wright sues Ira Kleiman" name="Lynn Wright sues Ira Kleiman"&gt;&lt;/a&gt;Lynn Wright sues Ira Kleiman (2020)&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;ul&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;&lt;a id="Sues Roger Ver for Libel" name="Sues Roger Ver for Libel"&gt;&lt;/a&gt;Sues Roger Ver for Libel (2020)&lt;/h1&gt;
+
+&lt;p&gt;(Antigua?)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;&lt;a id="Sues bitcoin.org (CobraBitcoin) for Copyright Violation" name="Sues bitcoin.org (CobraBitcoin) for Copyright Violation"&gt;&lt;/a&gt;Sues bitcoin.org (CobraBitcoin) for Copyright Violation (2021)&lt;/h1&gt;
+
+&lt;p&gt;IL-2021-000008&lt;/p&gt;
+
+&lt;h2&gt;Press release announcing the action&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.prnewswire.com/news-releases/uk-court-grants-permission-for-bitcoin-copyright-infringement-claim-301275909.html"&gt;https://www.prnewswire.com/news-releases/uk-court-grants-permission-for-bitcoin-copyright-infringement-claim-301275909.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.ph/DYISD"&gt;https://archive.ph/DYISD&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="CobraParticulars"&gt;2021/3/31 Particulars of Claim&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;local: 
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-08/2021%2003%2031_Particulars%20of%20Claim%20%28IL-2021-00008%29.pdf" type="application/pdf"&gt;2021 03 31_Particulars of Claim (IL-2021-00008).pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="CobraJudgement"&gt;2021/6/28 Judgement&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;local: 
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-08/IL-2021-000008%20Wright-v-Cobra-280621-Approved%20Judgment.pdf" type="application/pdf"&gt;IL-2021-000008 Wright-v-Cobra-280621-Approved Judgment.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;&lt;a id="Sues bitcoin.com for Copyright Violation" name="Sues bitcoin.com for Copyright Violation"&gt;&lt;/a&gt;Sues bitcoin.com for Copyright Violation (2021)&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;&lt;a id="Sues bitcoincore.org for Copyright Violation" name="Sues bitcoincore.org for Copyright Violation"&gt;&lt;/a&gt;Sues bitcoincore.org for Copyright Violation (2021)&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;&lt;a id="Sues Square for Copyright Violation" name="Sues Square for Copyright Violation"&gt;&lt;/a&gt;Sues Square for Copyright Violation (2021)&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;&lt;a id="Sues BTC, BCH, BCH ABC and Bitcoin Association (BSV) for Damages" name="Sues BTC, BCH, BCH ABC and Bitcoin Association (BSV) for Damages"&gt;&lt;/a&gt;Sues BTC, BCH, BCH ABC and Bitcoin Association (BSV) for Damages (2021)&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;&lt;a id="Tulip Trust (Ramona Ang) Sues Ira Kleiman" name="Tulip Trust (Ramona Ang) Sues Ira Kleiman"&gt;&lt;/a&gt;Tulip Trust (Ramona Ang) Sues Ira Kleiman (2021)&lt;/h1&gt;
+
+&lt;p&gt;https://appsgp.mypalmbeachclerk.com/eCaseView/landingpage.aspx&lt;/p&gt;
+
+&lt;p&gt;50-2021-CA-004758-XXXX-MB&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;&lt;a id="COPA v Wright" name="COPA v Wright"&gt;&lt;/a&gt;COPA v Wright (2021)&lt;/h1&gt;
+
+&lt;p&gt;These are publicly available documents available by request to the UK court. Made available here for convenience in the public interest.&lt;/p&gt;
+
+&lt;h2 id="20210409Filing"&gt;2021/4/9 filing&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;COPA's announcement on Twitter: &lt;a href="https://twitter.com/opencryptoorg/status/1381642092624015360?s=20"&gt;https://twitter.com/opencryptoorg/status/1381642092624015360?s=20&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.is/qmxrp"&gt;https://archive.is/qmxrp&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;local: &lt;img alt="COPA initial filing" data-entity-type="file" data-entity-uuid="692e5dc8-57a6-4a53-ad83-03e0b0de1ac5" height="360" src="https://www.cswarchive.info/sites/default/files/inline-images/EyyUDHXUUAE31Qc.jpeg" width="315" loading="lazy" /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="20210412ParticularsOfClaim"&gt;2021/4/12 Particulars of claim (by COPA)&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;local: 
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-08/Particulars_of_Claim_-_Crypto_Open_Patent_Alliance_v_Craig_Steven_Wright.pdf" type="application/pdf"&gt;Particulars_of_Claim_-_Crypto_Open_Patent_Alliance_v_Craig_Steven_Wright.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="20210514Defence"&gt;2021/5/14 Defence (by Wright)&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;local: 
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-08/2021_05_14_Defence.pdf" type="application/pdf"&gt;2021_05_14_Defence.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I assess the plausibility of Wright's claim in §6 of this document here: &lt;a href="https://cswarchive.info/nakamoto2"&gt;https://cswarchive.info/nakamoto2&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="20210615Response"&gt;2021/6/15 Response to CSW's request for further information on the Particulars of Claim (by COPA)&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;local: 
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-08/2021.06.15%20COPA%20v%20Wright%20-%20RFI%20Response%20%28FINAL%29.pdf" type="application/pdf"&gt;2021.06.15 COPA v Wright - RFI Response (FINAL).pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="20210719Reply"&gt;2021/7/19 Reply to Defence (by COPA)&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;local:
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-08/2021.07.19_COPA_v_Wright_Reply_%28AS_FILED%29.pdf" type="application/pdf"&gt;2021.07.19_COPA_v_Wright_Reply_(AS_FILED).pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="20210804Request"&gt;2021/8/4 Request for more Information (by COPA)&lt;/h2&gt;
+
+&lt;h2 id="20210910Response"&gt;2021/9/10 Response to Request (by Wright)&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;local: 
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-09/2021%2009%2010_COPA%20v%20Dr%20Wright%20-%20Ds%20Responses%20to%20RFI%20on%20the%20Defence%20%28FINAL%20AS%20FILED%29.pdf" type="application/pdf"&gt;2021 09 10_COPA v Dr Wright - Ds Responses to RFI on the Defence (FINAL AS FILED).pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="20210927Amended"&gt;2021/9/27 Amended Defence (by Wright)&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;local: 
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2021-09/2021%2009%2027_%20Amended%20Defence%20%28AS%20FILED%29.pdf" type="application/pdf"&gt;2021 09 27_ Amended Defence (AS FILED).pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+      </description>
+  <pubDate>Mon, 21 Jun 2021 22:26:34 +0000</pubDate>
+    <dc:creator>btckershi</dc:creator>
+    <guid isPermaLink="false">3 at https://www.cswarchive.info</guid>
+    </item>
+<item>
+  <title>Craig's Online Material</title>
+  <link>https://www.cswarchive.info/csw-online</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Craig's Online Material&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.cswarchive.info/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;btckershi&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2021-06-21T21:30:13+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 06/21/2021 - 21:30&lt;/span&gt;
+
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;h2&gt;Blogs&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href="https://web.archive.org/web/20150121024725/http://gse-compliance.blogspot.com/"&gt;gse-compliance.blogspot.com&lt;/a&gt; (2008-2015)&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://web.archive.org/web/20171018063015/twitter.com/proffaustus"&gt;twitter.com/proffaustus&lt;/a&gt; (2010-2017)&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://medium.com/@adam_selene"&gt;medium.com/@adam_selene&lt;/a&gt; under the alias Adam Selene (2017) Craig claims this alias &lt;a href="https://medium.com/@craig_10243/for-more-f10559073979"&gt;here&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://medium.com/@ProfFaustus"&gt;medium.com/@ProfFaustus&lt;/a&gt; under the alias Prof Faustus (2017-2018) Craig claims this alias &lt;a href="https://medium.com/@craig_10243/more-from-me-9cd80e197065"&gt;here&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://medium.com/@craig_10243"&gt;medium.com/@craig_10243&lt;/a&gt; as himself (2018-2020)&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://web.archive.org/web/20160502071722/http://www.drcraigwright.net/"&gt;drcraigwright.net&lt;/a&gt; (2015-2016)&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://web.archive.org/web/20210425010938/https://craigwright.net/"&gt;craigwright.net&lt;/a&gt; (2019-present)&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Mon, 21 Jun 2021 21:30:13 +0000</pubDate>
+    <dc:creator>btckershi</dc:creator>
+    <guid isPermaLink="false">2 at https://www.cswarchive.info</guid>
+    </item>
+<item>
+  <title>Collections of Data</title>
+  <link>https://www.cswarchive.info/collections</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Collections of Data&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.cswarchive.info/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;btckershi&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2021-06-21T21:19:23+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 06/21/2021 - 21:19&lt;/span&gt;
+
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;ul&gt;
+	&lt;li&gt;Arthur Van Pelt
+	&lt;ul&gt;
+		&lt;li&gt;Faketoshi Fraud Timeline: &lt;a href="https://seekingsatoshi.weebly.com/mylegacykit.html"&gt;https://seekingsatoshi.weebly.com/mylegacykit.html&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;Faketoshi, The Early Years:
+		&lt;ul&gt;
+			&lt;li&gt;Part 1: &lt;a href="https://mylegacykit.medium.com/faketoshi-the-early-years-part-1-9964fc1639e3"&gt;https://mylegacykit.medium.com/faketoshi-the-early-years-part-1-9964fc1639e3&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;Part 2: &lt;a href="https://mylegacykit.medium.com/faketoshi-the-early-years-part-2-b671c24671bd"&gt;https://mylegacykit.medium.com/faketoshi-the-early-years-part-2-b671c24671bd&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;StopCraigWright: &lt;a href="https://privacypros.io/stop-craig-wright/"&gt;https://privacypros.io/stop-craig-wright/&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Vitalik Buterin's Github Page: &lt;a href="https://github.com/vbuterin/cult-of-craig"&gt;https://github.com/vbuterin/cult-of-craig&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Cypherpunks Faketoshi Page: &lt;a href="http://faketoshi.cypherpunks.xyz/"&gt;http://faketoshi.cypherpunks.xyz/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Mon, 21 Jun 2021 21:19:23 +0000</pubDate>
+    <dc:creator>btckershi</dc:creator>
+    <guid isPermaLink="false">1 at https://www.cswarchive.info</guid>
+    </item>
+
+  </channel>
+</rss>
