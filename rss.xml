@@ -32,7 +32,9 @@
 &lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.cswarchive.info/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;btckershi&lt;/span&gt;&lt;/span&gt;
 &lt;span property="schema:dateCreated" content="2021-06-21T22:26:34+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 06/21/2021 - 22:26&lt;/span&gt;
 
-            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;a id="Top" name="Top"&gt;&lt;/a&gt;This document aims to provide an exhaustive reference for all legal disputes involving Craig Wright, with original and archival links to all publicly available sources. Key quotations from these sources are provided to make this page a searchable index of statements by legal professionals on Craig Wright's credibility or the strengths of his claims relevant in each case.&lt;/p&gt;
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;a id="Top" name="Top"&gt;&lt;/a&gt;This document aims to provide an exhaustive reference of publicly available documents for all legal disputes involving Craig Wright, with original and archival links to all publicly available sources. Key quotations from these sources are provided to make this page a searchable index of statements by legal professionals on Craig Wright's credibility or the strengths of his claims relevant in each case.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;A note on sources: all locally hosted documents from UK courts were obtained by application to the court by a member of the public who is not a party to any of the cases. They are presented as received from the court, except in cases where they contained personal information, which has been redacted. This includes any document containing personal information about Craig Wright. Some publicly available documents containing personal information about Craig Wright that could not be redacted have not been, and will not be, uploaded.&lt;/em&gt;&lt;/p&gt;
 
 &lt;table border="1" cellpadding="1" cellspacing="1" style="width: 100%;"&gt;
 	&lt;tbody&gt;
@@ -425,7 +427,7 @@
 		&lt;/tr&gt;
 		&lt;tr&gt;
 			&lt;td style="width: 82px;"&gt;2021&lt;/td&gt;
-			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#Sues bitcoin.org (CobraBitcoin) for Copyright Violation"&gt;Sues bitcoin.org (CobraBitcoin) for Copyright Violation&lt;/a&gt;&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;strong&gt;&lt;a href="#Sues bitcoin.org (CobraBitcoin) for Copyright Violation"&gt;Sues bitcoin.org (CobraBitcoin) for Copyright Violation&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
 		&lt;/tr&gt;
 		&lt;tr&gt;
 			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
@@ -471,13 +473,19 @@
 		&lt;/tr&gt;
 		&lt;tr&gt;
 			&lt;td style="width: 82px;"&gt;2021&lt;/td&gt;
-			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#Sues BTC, BCH, BCH ABC and Bitcoin Association (BSV) for Damages"&gt;Sues BTC, BCH, BCH ABC and Bitcoin Association (BSV) for Damages&lt;/a&gt;&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;strong&gt;&lt;a href="#Sues BTC, BCH, BCH ABC and Bitcoin Association (BSV) for Damages"&gt;Tulip Trading (Craig Wright) sues BTC, BCH, BCH ABC Developers and Bitcoin Association (BSV)&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
 		&lt;/tr&gt;
 		&lt;tr&gt;
 			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
 			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
-			&lt;td style="width: 66px;"&gt;Feb&lt;/td&gt;
-			&lt;td style="width: 391px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2021/4/29&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#20210429"&gt;Particulars of Claim&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2022/1/5&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#20220105"&gt;Judgement on Security for Costs&lt;/a&gt;&lt;/td&gt;
 		&lt;/tr&gt;
 		&lt;tr&gt;
 			&lt;td style="width: 82px;"&gt;2021&lt;/td&gt;
@@ -491,7 +499,7 @@
 		&lt;/tr&gt;
 		&lt;tr&gt;
 			&lt;td style="width: 82px;"&gt;2021&lt;/td&gt;
-			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#COPA v Wright"&gt;COPA v Wright&lt;/a&gt;&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;strong&gt;&lt;a href="#COPA v Wright"&gt;COPA v Wright&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
 		&lt;/tr&gt;
 		&lt;tr&gt;
 			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
@@ -541,9 +549,21 @@
 			&lt;td style="width: 66px;"&gt;2021/9/27&lt;/td&gt;
 			&lt;td style="width: 391px;"&gt;&lt;a href="#20210927Amended"&gt;Amended Defence(by Wright)&lt;/a&gt;&lt;/td&gt;
 		&lt;/tr&gt;
-&lt;tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2021/12/10&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#20211210"&gt;Judgement on Applications Regarding the Claims&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
+			&lt;td style="width: 66px;"&gt;2022/02/09&lt;/td&gt;
+			&lt;td style="width: 391px;"&gt;&lt;a href="#20210209"&gt;Judgement on Costs Related to the Judgement of 2021/12/10&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
 			&lt;td style="width: 82px;"&gt;2021&lt;/td&gt;
-			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#Nakamotoetal"&gt;Sued by "Herbert et al"&lt;/a&gt;&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;strong&gt;&lt;a href="#Nakamotoetal"&gt;Sued by "Herbert et al"&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
 		&lt;/tr&gt;
 		&lt;tr&gt;
 			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
@@ -557,13 +577,13 @@
 			&lt;td style="width: 66px;"&gt;2021/4/12&lt;/td&gt;
 			&lt;td style="width: 391px;"&gt;&lt;a href="#HerbertoetalFiling"&gt;Filing&lt;/a&gt;&lt;/td&gt;
 		&lt;/tr&gt;
-&lt;tr&gt;
+		&lt;tr&gt;
 			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
 			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
 			&lt;td style="width: 66px;"&gt;2021/4/12&lt;/td&gt;
 			&lt;td style="width: 391px;"&gt;&lt;a href="#HerbertoetalPauperis"&gt;Motion to Proceed in Pauperis&lt;/a&gt;&lt;/td&gt;
 		&lt;/tr&gt;
-&lt;tr&gt;
+		&lt;tr&gt;
 			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
 			&lt;td style="width: 210px;"&gt; &lt;/td&gt;
 			&lt;td style="width: 66px;"&gt;2021/5/7&lt;/td&gt;
@@ -571,7 +591,7 @@
 		&lt;/tr&gt;
 		&lt;tr&gt;
 			&lt;td style="width: 82px;"&gt;2021&lt;/td&gt;
-			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;a href="#Nakamotoetal"&gt;Sued by "Nakamoto et al"&lt;/a&gt;&lt;/td&gt;
+			&lt;td colspan="3" rowspan="1" style="width: 210px;"&gt;&lt;strong&gt;&lt;a href="#Nakamotoetal"&gt;Sued by "Nakamoto et al"&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
 		&lt;/tr&gt;
 		&lt;tr&gt;
 			&lt;td style="width: 82px;"&gt; &lt;/td&gt;
@@ -2424,7 +2444,33 @@ The Court held a hearing on June 11 on the Motion. DE 221. Plaintiffs’ counsel
 &lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;h1&gt;&lt;a id="Sues BTC, BCH, BCH ABC and Bitcoin Association (BSV) for Damages" name="Sues BTC, BCH, BCH ABC and Bitcoin Association (BSV) for Damages"&gt;&lt;/a&gt;Sues BTC, BCH, BCH ABC and Bitcoin Association (BSV) for Damages (2021)&lt;/h1&gt;
+&lt;h1&gt;&lt;a id="Sues BTC, BCH, BCH ABC and Bitcoin Association (BSV) for Damages" name="Sues BTC, BCH, BCH ABC and Bitcoin Association (BSV) for Damages"&gt;&lt;/a&gt;Tulip Trading (Craig Wright) sues BTC, BCH, BCH ABC Developers and Bitcoin Association (BSV) (2021)&lt;/h1&gt;
+
+&lt;h2 id="20210429"&gt;2021/4/29 Particulars of Claim&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;local: 
+	&lt;article class="align-center media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.cswarchive.info/sites/default/files/2022-02/Particulars%20of%20Claim%20-%2029%20April%202021.pdf" type="application/pdf"&gt;Particulars of Claim - 29 April 2021.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="20220105"&gt;2022/1/5 Judgement on Security for Costs&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWHC/Ch/2022/2.html"&gt;https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWHC/Ch/2022/2.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.fo/YpApd"&gt;https://archive.fo/YpApd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
 
@@ -2568,6 +2614,22 @@ The Court held a hearing on June 11 on the Motion. DE 221. Plaintiffs’ counsel
 	&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id="20211210"&gt;2021/12/10 Judgement on Applications Regarding the Claims&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWHC/Ch/2021/3440.html"&gt;https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWHC/Ch/2021/3440.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.is/8VuVr"&gt;https://archive.is/8VuVr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(Purely incidentally, part of this judgement was cited as case law less than two months later in &lt;a href="https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWFC/HCJ/2022/5.html"&gt;https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWFC/HCJ/2022/5.html&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2 id="20210209"&gt;2022/02/09 Judgement on Costs Related to the Judgement of 2021/12/10&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;original: &lt;a href="https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWHC/Ch/2022/242.html"&gt;https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWHC/Ch/2022/242.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;archive: &lt;a href="https://archive.fo/XJbo4"&gt;https://archive.fo/XJbo4&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;&lt;a href="#Top"&gt;back to top&lt;/a&gt; &lt;/p&gt;
 
 &lt;hr /&gt;
@@ -2617,7 +2679,6 @@ The Court held a hearing on June 11 on the Motion. DE 221. Plaintiffs’ counsel
 &lt;h2 id="HerbertoetalPauperis"&gt;Motion to Proceed in Pauperis (2021/4/12)&lt;/h2&gt;
 
 &lt;h2 id="HerbertoetalAmend"&gt;Motion to Amend Complaint (2021/5/7)&lt;/h2&gt;
-
 &lt;/div&gt;
       </description>
   <pubDate>Mon, 21 Jun 2021 22:26:34 +0000</pubDate>
