@@ -2791,13 +2791,15 @@ a) There is some evidence of the purchase of bitcoin at the 1Feex address in Feb
     <guid isPermaLink="false">2 at https://www.cswarchive.info</guid>
     </item>
 <item>
-  <title>Collections of Data</title>
-  <link>https://www.cswarchive.info/collections</link>
-  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Collections of Data&lt;/span&gt;
+  <title>Journalism</title>
+  <link>https://www.cswarchive.info/journalism</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Journalism&lt;/span&gt;
 &lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://www.cswarchive.info/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;btckershi&lt;/span&gt;&lt;/span&gt;
 &lt;span property="schema:dateCreated" content="2021-06-21T21:19:23+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 06/21/2021 - 21:19&lt;/span&gt;
 
-            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;ul&gt;
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;h2&gt;Collations of Data&lt;/h2&gt;
+
+&lt;ul&gt;
 	&lt;li&gt;Arthur Van Pelt
 	&lt;ul&gt;
 		&lt;li&gt;Faketoshi Fraud Timeline: &lt;a href="https://seekingsatoshi.weebly.com/mylegacykit.html"&gt;https://seekingsatoshi.weebly.com/mylegacykit.html&lt;/a&gt;&lt;/li&gt;
@@ -2813,6 +2815,12 @@ a) There is some evidence of the purchase of bitcoin at the 1Feex address in Feb
 	&lt;li&gt;StopCraigWright: &lt;a href="https://privacypros.io/stop-craig-wright/"&gt;https://privacypros.io/stop-craig-wright/&lt;/a&gt;&lt;/li&gt;
 	&lt;li&gt;Vitalik Buterin's Github Page: &lt;a href="https://github.com/vbuterin/cult-of-craig"&gt;https://github.com/vbuterin/cult-of-craig&lt;/a&gt;&lt;/li&gt;
 	&lt;li&gt;Cypherpunks Faketoshi Page: &lt;a href="http://faketoshi.cypherpunks.xyz/"&gt;http://faketoshi.cypherpunks.xyz/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Articles about Wright's Satoshi Claim&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;2022 April: &lt;a href="https://coincontroversy.com/the-history-of-the-faketoshi-cryptos-most-notorious-fraudsters/"&gt;https://coincontroversy.com/the-history-of-the-faketoshi-cryptos-most-notorious-fraudsters/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;
       </description>
   <pubDate>Mon, 21 Jun 2021 21:19:23 +0000</pubDate>
